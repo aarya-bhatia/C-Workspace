@@ -1,0 +1,4 @@
+1.View files in archive: ar t lib.a
+2.Extract object files from archive: ar x lib.a 
+3.Add/Replace object file in existing archive: ar r lib.a obj.o 
+4.Remove object file from archive: ar d lib.a obj.o

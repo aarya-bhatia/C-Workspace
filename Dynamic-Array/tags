@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+DEFAULT_SIZE	vector.c	/^const int DEFAULT_SIZE = 10;$/;"	v
+IntVec_get	int_vec.c	/^int IntVec_get(vector *v, int index)$/;"	f
+IntVec_init	int_vec.c	/^void IntVec_init(vector *v, int size)$/;"	f
+IntVec_insert	int_vec.c	/^void IntVec_insert(vector *v, int value)$/;"	f
+IntVec_print	int_vec.c	/^void IntVec_print(vector *v)$/;"	f
+IntVec_remove	int_vec.c	/^int IntVec_remove(vector *v, int index)$/;"	f
+IntVec_set	int_vec.c	/^void IntVec_set(vector *v, int index, int value)$/;"	f
+SCOPIFY	scopify.c	/^#define SCOPIFY /;"	d	file:
+data	vector.h	/^    void *data;$/;"	m	struct:__anon1
+get	vector.c	/^void *get(vector *v, int index) $/;"	f
+init	vector.c	/^void init(vector *v, int objSize, int size)$/;"	f
+len	vector.h	/^    int len;$/;"	m	struct:__anon1
+main	int_vec.c	/^int main(int argc, char *argv[])$/;"	f
+main	main.c	/^int main(int argc, char *argv[])$/;"	f
+objSize	vector.h	/^    int objSize;$/;"	m	struct:__anon1
+set	vector.c	/^void set(vector *v, int index, void *data)$/;"	f
+size	vector.h	/^    int size;$/;"	m	struct:__anon1
+std	Makefile	/^	gcc -std=c11 $^ -o $@$/;"	m
+valid	vector.c	/^int valid(vector *v, int index)$/;"	f
+vector	vector.h	/^} vector;$/;"	t	typeref:struct:__anon1

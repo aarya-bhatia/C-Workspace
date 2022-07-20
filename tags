@@ -1,0 +1,1250 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACUTEST_ATTRIBUTE_	acutest.hpp	/^    #define ACUTEST_ATTRIBUTE_(/;"	d
+ACUTEST_CMDLINE_AUXBUF_SIZE_	acutest.hpp	/^#define ACUTEST_CMDLINE_AUXBUF_SIZE_ /;"	d
+ACUTEST_CMDLINE_OPTFLAG_OPTIONALARG_	acutest.hpp	/^#define ACUTEST_CMDLINE_OPTFLAG_OPTIONALARG_ /;"	d
+ACUTEST_CMDLINE_OPTFLAG_REQUIREDARG_	acutest.hpp	/^#define ACUTEST_CMDLINE_OPTFLAG_REQUIREDARG_ /;"	d
+ACUTEST_CMDLINE_OPTID_BOGUSARG_	acutest.hpp	/^#define ACUTEST_CMDLINE_OPTID_BOGUSARG_ /;"	d
+ACUTEST_CMDLINE_OPTID_MISSINGARG_	acutest.hpp	/^#define ACUTEST_CMDLINE_OPTID_MISSINGARG_ /;"	d
+ACUTEST_CMDLINE_OPTID_NONE_	acutest.hpp	/^#define ACUTEST_CMDLINE_OPTID_NONE_ /;"	d
+ACUTEST_CMDLINE_OPTID_UNKNOWN_	acutest.hpp	/^#define ACUTEST_CMDLINE_OPTID_UNKNOWN_ /;"	d
+ACUTEST_CMDLINE_OPTION_	acutest.hpp	/^} ACUTEST_CMDLINE_OPTION_;$/;"	t	typeref:struct:acutest_test_CMDLINE_OPTION_
+ACUTEST_COLOR_DEFAULT_	acutest.hpp	/^#define ACUTEST_COLOR_DEFAULT_ /;"	d
+ACUTEST_COLOR_DEFAULT_INTENSIVE_	acutest.hpp	/^#define ACUTEST_COLOR_DEFAULT_INTENSIVE_ /;"	d
+ACUTEST_COLOR_GREEN_	acutest.hpp	/^#define ACUTEST_COLOR_GREEN_ /;"	d
+ACUTEST_COLOR_GREEN_INTENSIVE_	acutest.hpp	/^#define ACUTEST_COLOR_GREEN_INTENSIVE_ /;"	d
+ACUTEST_COLOR_RED_	acutest.hpp	/^#define ACUTEST_COLOR_RED_ /;"	d
+ACUTEST_COLOR_RED_INTENSIVE_	acutest.hpp	/^#define ACUTEST_COLOR_RED_INTENSIVE_ /;"	d
+ACUTEST_FLAG_FAILURE_	acutest.hpp	/^    ACUTEST_FLAG_FAILURE_ = 1 << 2,$/;"	e	enum:__anon17
+ACUTEST_FLAG_RUN_	acutest.hpp	/^    ACUTEST_FLAG_RUN_ = 1 << 0,$/;"	e	enum:__anon17
+ACUTEST_FLAG_SUCCESS_	acutest.hpp	/^    ACUTEST_FLAG_SUCCESS_ = 1 << 1,$/;"	e	enum:__anon17
+ACUTEST_H	acutest.hpp	/^#define ACUTEST_H$/;"	d
+ACUTEST_HAS_POSIX_TIMER_	acutest.hpp	/^        #define ACUTEST_HAS_POSIX_TIMER_ /;"	d
+ACUTEST_LINUX_	acutest.hpp	/^    #define ACUTEST_LINUX_ /;"	d
+ACUTEST_MACOS_	acutest.hpp	/^    #define ACUTEST_MACOS_$/;"	d
+ACUTEST_UNIX_	acutest.hpp	/^    #define ACUTEST_UNIX_ /;"	d
+ACUTEST_WIN_	acutest.hpp	/^    #define ACUTEST_WIN_ /;"	d
+ALLOCSIZE	Solutions/chapter_5/exercise_5-13.c	/^#define ALLOCSIZE	/;"	d	file:
+ALLOCSIZE	Solutions/chapter_5/exercise_5-14.c	/^#define ALLOCSIZE	/;"	d	file:
+ALLOCSIZE	Solutions/chapter_5/exercise_5-15.c	/^#define ALLOCSIZE	/;"	d	file:
+ALLOCSIZE	Solutions/chapter_5/exercise_5-16.c	/^#define ALLOCSIZE	/;"	d	file:
+ALLOCSIZE	Solutions/chapter_5/exercise_5-17.c	/^#define ALLOCSIZE	/;"	d	file:
+ALLOCSIZE	dynamic_memory.c	/^#define ALLOCSIZE /;"	d	file:
+ALPHABET_SIZE	Solutions/chapter_1/exercise_1-14.c	/^#define ALPHABET_SIZE	/;"	d	file:
+ARRAYSIZE	Solutions/chapter_8/exercise_8-6.c	/^#define ARRAYSIZE	/;"	d	file:
+ARRAYSIZE	Solutions/chapter_8/exercise_8-8.c	/^#define ARRAYSIZE	/;"	d	file:
+Align	Solutions/chapter_8/exercise_8-6.c	/^typedef long	Align;$/;"	t	file:
+Align	Solutions/chapter_8/exercise_8-7.c	/^typedef long	Align;$/;"	t	file:
+Align	Solutions/chapter_8/exercise_8-8.c	/^typedef long	Align;$/;"	t	file:
+BLACK	RemoveIsland.cpp	/^    BLACK,$/;"	e	enum:PixelType	file:
+BRACKETS	Solutions/chapter_5/exercise_5-18.c	/^enum { NAME, PARENS, BRACKETS, ERROR };$/;"	e	enum:__anon6	file:
+BRACKETS	Solutions/chapter_5/exercise_5-19.c	/^enum { NAME, PARENS, BRACKETS };$/;"	e	enum:__anon9	file:
+BUFFER_SIZE	Solutions/chapter_3/exercise_3-2.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFER_SIZE	Solutions/chapter_3/exercise_3-3.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFER_SIZE	Solutions/chapter_3/exercise_3-4.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFER_SIZE	Solutions/chapter_3/exercise_3-5.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFER_SIZE	Solutions/chapter_3/exercise_3-6.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFER_SIZE	Solutions/chapter_4/exercise_4-12.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFER_SIZE	Solutions/chapter_4/exercise_4-13.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFER_SIZE	Solutions/chapter_5/exercise_5-6.c	/^#define BUFFER_SIZE	/;"	d	file:
+BUFFSIZE	calculator.c	/^#define BUFFSIZE /;"	d	file:
+BUFSIZ	Solutions/chapter_8/exercise_8-2.c	/^#define BUFSIZ	/;"	d	file:
+BUFSIZ	Solutions/chapter_8/exercise_8-3.c	/^#define BUFSIZ	/;"	d	file:
+BUFSIZ	Solutions/chapter_8/exercise_8-4.c	/^#define BUFSIZ	/;"	d	file:
+BUFSIZE	Solutions/chapter_4/exercise_4-3.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_4/exercise_4-4.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_4/exercise_4-5.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_4/exercise_4-6.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_4/exercise_4-7.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_4/exercise_4-9.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_5/exercise_5-1.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_5/exercise_5-18.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_5/exercise_5-19.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_5/exercise_5-2.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_5/exercise_5-20.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_6/exercise_6-1.c	/^#define BUFSIZE /;"	d	file:
+BUFSIZE	Solutions/chapter_6/exercise_6-2.c	/^#define BUFSIZE /;"	d	file:
+BUFSIZE	Solutions/chapter_6/exercise_6-3.c	/^#define BUFSIZE /;"	d	file:
+BUFSIZE	Solutions/chapter_6/exercise_6-4.c	/^#define BUFSIZE /;"	d	file:
+BUFSIZE	Solutions/chapter_6/exercise_6-6.c	/^#define BUFSIZE /;"	d	file:
+BUFSIZE	Solutions/chapter_7/exercise_7-6.c	/^#define BUFSIZE	/;"	d	file:
+BUFSIZE	Solutions/chapter_8/exercise_8-1.c	/^#define BUFSIZE	/;"	d	file:
+COMMENT	Solutions/chapter_1/exercise_1-23.c	/^#define COMMENT /;"	d	file:
+COMMENT	Solutions/chapter_1/exercise_1-24.c	/^#define COMMENT /;"	d	file:
+COS	Solutions/chapter_4/exercise_4-10.c	/^	COS, $/;"	e	enum:__anon14	file:
+COS	Solutions/chapter_4/exercise_4-11.c	/^	COS, $/;"	e	enum:__anon12	file:
+COS	Solutions/chapter_4/exercise_4-5.c	/^	COS, $/;"	e	enum:__anon13	file:
+COS	Solutions/chapter_4/exercise_4-6.c	/^	COS, $/;"	e	enum:__anon11	file:
+COS	Solutions/chapter_4/exercise_4-7.c	/^	COS, $/;"	e	enum:__anon16	file:
+COS	Solutions/chapter_4/exercise_4-8.c	/^	COS, $/;"	e	enum:__anon10	file:
+COS	Solutions/chapter_4/exercise_4-9.c	/^	COS, $/;"	e	enum:__anon15	file:
+COS	Solutions/chapter_5/exercise_5-10.c	/^	COS, $/;"	e	enum:__anon8	file:
+CPPFLAGS	Makefile	/^CPPFLAGS=-I. $(patsubst %, -I%, $(shell find $(SRC_DIR) type -d))$/;"	m
+CXX	Makefile	/^CXX=clang++$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS=-std=c++1y -stdlib=libc++ -O0 -g -c$/;"	m
+Compare	Functor.cpp	/^struct Compare$/;"	s	file:
+DEFAULT_PREFIX_LENGTH	Solutions/chapter_6/exercise_6-2.c	/^#define DEFAULT_PREFIX_LENGTH	/;"	d	file:
+DEFAULT_START_COLUMN	Solutions/chapter_5/exercise_5-12a.c	/^#define DEFAULT_START_COLUMN /;"	d	file:
+DEFAULT_START_COLUMN	Solutions/chapter_5/exercise_5-12b.c	/^#define DEFAULT_START_COLUMN	/;"	d	file:
+DEFAULT_TABSIZE	Solutions/chapter_5/exercise_5-11a.c	/^#define DEFAULT_TABSIZE	/;"	d	file:
+DEFAULT_TABSIZE	Solutions/chapter_5/exercise_5-11b.c	/^#define DEFAULT_TABSIZE	/;"	d	file:
+DEFAULT_TABSIZE	Solutions/chapter_5/exercise_5-12a.c	/^#define DEFAULT_TABSIZE /;"	d	file:
+DEFAULT_TABSIZE	Solutions/chapter_5/exercise_5-12b.c	/^#define DEFAULT_TABSIZE	/;"	d	file:
+DEPFILE_FLAGS	Makefile	/^DEPFILE_FLAGS=-MMD -MP$/;"	m
+DISPLAY_LENGTH	Solutions/chapter_1/exercise_1-17.c	/^#define DISPLAY_LENGTH	/;"	d	file:
+DOUBLE_QUOTE	Solutions/chapter_1/exercise_1-23.c	/^#define DOUBLE_QUOTE /;"	d	file:
+DOUBLE_QUOTE	Solutions/chapter_1/exercise_1-24.c	/^#define DOUBLE_QUOTE /;"	d	file:
+EOF	Solutions/chapter_8/exercise_8-2.c	/^#define EOF	/;"	d	file:
+EOF	Solutions/chapter_8/exercise_8-3.c	/^#define EOF	/;"	d	file:
+EOF	Solutions/chapter_8/exercise_8-4.c	/^#define EOF	/;"	d	file:
+ERROR	Solutions/chapter_5/exercise_5-18.c	/^enum { NAME, PARENS, BRACKETS, ERROR };$/;"	e	enum:__anon6	file:
+EXP	Solutions/chapter_4/exercise_4-10.c	/^	EXP,$/;"	e	enum:__anon14	file:
+EXP	Solutions/chapter_4/exercise_4-11.c	/^	EXP,$/;"	e	enum:__anon12	file:
+EXP	Solutions/chapter_4/exercise_4-5.c	/^	EXP,$/;"	e	enum:__anon13	file:
+EXP	Solutions/chapter_4/exercise_4-6.c	/^	EXP,$/;"	e	enum:__anon11	file:
+EXP	Solutions/chapter_4/exercise_4-7.c	/^	EXP,$/;"	e	enum:__anon16	file:
+EXP	Solutions/chapter_4/exercise_4-8.c	/^	EXP,$/;"	e	enum:__anon10	file:
+EXP	Solutions/chapter_4/exercise_4-9.c	/^	EXP,$/;"	e	enum:__anon15	file:
+EXP	Solutions/chapter_5/exercise_5-10.c	/^	EXP,$/;"	e	enum:__anon8	file:
+Edge	Graph.h	/^    Edge(const Edge<K> &other)$/;"	f	class:Edge
+Edge	Graph.h	/^    Edge(const K &src, const K &dest, float distance = 0.0f) : source(src), destination(dest), distance(distance)$/;"	f	class:Edge
+Edge	Graph.h	/^class Edge$/;"	c
+Entity	Functor.cpp	/^struct Entity$/;"	s	file:
+FILE	Solutions/chapter_8/exercise_8-2.c	/^} FILE;$/;"	t	typeref:struct:_iobuf	file:
+FILE	Solutions/chapter_8/exercise_8-3.c	/^} FILE;$/;"	t	typeref:struct:_iobuf	file:
+FILE	Solutions/chapter_8/exercise_8-4.c	/^} FILE;$/;"	t	typeref:struct:_iobuf	file:
+FOLDING_LENGTH	Solutions/chapter_1/exercise_1-22.c	/^#define FOLDING_LENGTH	/;"	d	file:
+ForEach	ForEach.cpp	/^void ForEach(const int values[], const int n, void (*func)(int))$/;"	f
+FrontBackSplit	MergeSortedLists.h	/^void FrontBackSplit(ListNode *source,$/;"	f
+Graph	Graph.h	/^Graph<K, V>::Graph()$/;"	f	class:Graph
+Graph	Graph.h	/^Graph<K, V>::Graph(const Graph &g)$/;"	f	class:Graph
+Graph	Graph.h	/^class Graph$/;"	c
+HASHSIZE	Solutions/chapter_6/exercise_6-5.c	/^#define HASHSIZE	/;"	d	file:
+HASHSIZE	Solutions/chapter_6/exercise_6-6.c	/^#define HASHSIZE	/;"	d	file:
+HISTOGRAM_SIZE	Solutions/chapter_1/exercise_1-14.c	/^#define HISTOGRAM_SIZE	/;"	d	file:
+Header	Solutions/chapter_8/exercise_8-6.c	/^typedef union header	Header;$/;"	t	typeref:union:header	file:
+Header	Solutions/chapter_8/exercise_8-7.c	/^typedef union header	Header;$/;"	t	typeref:union:header	file:
+Header	Solutions/chapter_8/exercise_8-8.c	/^typedef union header	Header;$/;"	t	typeref:union:header	file:
+IN	tmp.c	/^#define IN /;"	d	file:
+IN	word-counter.c	/^#define IN /;"	d	file:
+INVALID_MACRO_NAME	Solutions/chapter_6/exercise_6-6.c	/^	INVALID_MACRO_NAME, $/;"	e	enum:__anon5	file:
+LD	Makefile	/^LD=clang++$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS=-std=c++1y -stdlib=libc++$/;"	m
+LINESIZE	Solutions/chapter_7/exercise_7-2.c	/^#define LINESIZE	/;"	d	file:
+LINESIZE	Solutions/chapter_7/exercise_7-8.c	/^#define LINESIZE	/;"	d	file:
+LINESIZE	Solutions/chapter_8/exercise_8-2.c	/^#define LINESIZE /;"	d	file:
+LINESIZE	Solutions/chapter_8/exercise_8-3.c	/^#define LINESIZE /;"	d	file:
+LinkedList	LinkedList.h	/^    LinkedList()$/;"	f	class:LinkedList
+LinkedList	LinkedList.h	/^class LinkedList$/;"	c
+List	AddTwoNumbers.h	/^    List()$/;"	f	struct:List
+List	AddTwoNumbers.h	/^struct List$/;"	s
+ListNode	AddTwoNumbers.h	/^    ListNode() : val(0), next(nullptr) {}$/;"	f	struct:ListNode
+ListNode	AddTwoNumbers.h	/^    ListNode(int x) : val(x), next(nullptr) {}$/;"	f	struct:ListNode
+ListNode	AddTwoNumbers.h	/^    ListNode(int x, ListNode *next) : val(x), next(next) {}$/;"	f	struct:ListNode
+ListNode	AddTwoNumbers.h	/^struct ListNode {$/;"	s
+ListNode	MergeSortedLists.h	/^    ListNode() : val(0), next(nullptr) {}$/;"	f	struct:ListNode
+ListNode	MergeSortedLists.h	/^    ListNode(int x) : val(x), next(nullptr) {}$/;"	f	struct:ListNode
+ListNode	MergeSortedLists.h	/^    ListNode(int x, ListNode *next) : val(x), next(next) {}$/;"	f	struct:ListNode
+ListNode	MergeSortedLists.h	/^struct ListNode$/;"	s
+MACRO_TOO_LONG	Solutions/chapter_6/exercise_6-6.c	/^	MACRO_TOO_LONG $/;"	e	enum:__anon5	file:
+MAX	temp.c	/^#define MAX /;"	d	file:
+MAXALLOC	Solutions/chapter_8/exercise_8-7.c	/^#define MAXALLOC	/;"	d	file:
+MAXCHARS	Solutions/chapter_5/exercise_5-7.c	/^#define MAXCHARS	/;"	d	file:
+MAXFIELDS	Solutions/chapter_5/exercise_5-17.c	/^#define MAXFIELDS	/;"	d	file:
+MAXIMUM_LENGTH	Solutions/chapter_1/exercise_1-13.c	/^#define MAXIMUM_LENGTH	/;"	d	file:
+MAXLEN	Solutions/chapter_5/exercise_5-13.c	/^#define MAXLEN	/;"	d	file:
+MAXLEN	Solutions/chapter_5/exercise_5-14.c	/^#define MAXLEN	/;"	d	file:
+MAXLEN	Solutions/chapter_5/exercise_5-15.c	/^#define MAXLEN	/;"	d	file:
+MAXLEN	Solutions/chapter_5/exercise_5-16.c	/^#define MAXLEN	/;"	d	file:
+MAXLEN	Solutions/chapter_5/exercise_5-17.c	/^#define MAXLEN	/;"	d	file:
+MAXLEN	Solutions/chapter_5/exercise_5-7.c	/^#define MAXLEN	/;"	d	file:
+MAXLINE	Solutions/chapter_1/exercise_1-16.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	Solutions/chapter_1/exercise_1-17.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	Solutions/chapter_1/exercise_1-18.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	Solutions/chapter_1/exercise_1-19.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	Solutions/chapter_2/exercise_2-2.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	Solutions/chapter_4/exercise_4-1.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	Solutions/chapter_4/exercise_4-10.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	Solutions/chapter_7/exercise_7-7.c	/^#define MAXLINE	/;"	d	file:
+MAXLINE	arrays.c	/^#define MAXLINE /;"	d	file:
+MAXLINE	pattern_finder.c	/^#define MAXLINE /;"	d	file:
+MAXLINES	Solutions/chapter_5/exercise_5-13.c	/^#define MAXLINES	/;"	d	file:
+MAXLINES	Solutions/chapter_5/exercise_5-14.c	/^#define MAXLINES	/;"	d	file:
+MAXLINES	Solutions/chapter_5/exercise_5-15.c	/^#define MAXLINES	/;"	d	file:
+MAXLINES	Solutions/chapter_5/exercise_5-16.c	/^#define MAXLINES	/;"	d	file:
+MAXLINES	Solutions/chapter_5/exercise_5-17.c	/^#define MAXLINES	/;"	d	file:
+MAXLINES	Solutions/chapter_5/exercise_5-7.c	/^#define MAXLINES	/;"	d	file:
+MAXMACRO	Solutions/chapter_6/exercise_6-6.c	/^#define MAXMACRO	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-10.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-11.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-3.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-4.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-5.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-6.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-7.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-8.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_4/exercise_4-9.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_5/exercise_5-10.c	/^#define MAXOP	/;"	d	file:
+MAXOP	Solutions/chapter_7/exercise_7-5.c	/^#define MAXOP	/;"	d	file:
+MAXOP	calculator.c	/^#define MAXOP /;"	d	file:
+MAXOUTPUT	Solutions/chapter_5/exercise_5-18.c	/^#define MAXOUTPUT	/;"	d	file:
+MAXOUTPUT	Solutions/chapter_5/exercise_5-19.c	/^#define MAXOUTPUT	/;"	d	file:
+MAXOUTPUT	Solutions/chapter_5/exercise_5-20.c	/^#define MAXOUTPUT	/;"	d	file:
+MAXSTOPS	Solutions/chapter_5/exercise_5-11a.c	/^#define MAXSTOPS	/;"	d	file:
+MAXSTOPS	Solutions/chapter_5/exercise_5-11b.c	/^#define MAXSTOPS	/;"	d	file:
+MAXTOKEN	Solutions/chapter_5/exercise_5-18.c	/^#define MAXTOKEN	/;"	d	file:
+MAXTOKEN	Solutions/chapter_5/exercise_5-19.c	/^#define MAXTOKEN	/;"	d	file:
+MAXTOKEN	Solutions/chapter_5/exercise_5-20.c	/^#define MAXTOKEN	/;"	d	file:
+MAXTOKEN	Solutions/chapter_6/exercise_6-6.c	/^#define MAXTOKEN	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-10.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-11.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-3.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-4.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-5.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-6.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-7.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-8.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_4/exercise_4-9.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_5/exercise_5-10.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	Solutions/chapter_7/exercise_7-5.c	/^#define MAXVAL	/;"	d	file:
+MAXVAL	calculator.c	/^#define MAXVAL /;"	d	file:
+MAXWORD	Solutions/chapter_6/exercise_6-1.c	/^#define MAXWORD	/;"	d	file:
+MAXWORD	Solutions/chapter_6/exercise_6-2.c	/^#define MAXWORD	/;"	d	file:
+MAXWORD	Solutions/chapter_6/exercise_6-3.c	/^#define MAXWORD	/;"	d	file:
+MAXWORD	Solutions/chapter_6/exercise_6-4.c	/^#define MAXWORD	/;"	d	file:
+MAX_PATH	Solutions/chapter_8/exercise_8-5.c	/^#define MAX_PATH	/;"	d	file:
+MergeSort	MergeSortedLists.h	/^void MergeSort(ListNode **headRef)$/;"	f
+MyHashMap	HashMap.h	/^    MyHashMap()$/;"	f	class:MyHashMap
+MyHashMap	HashMap.h	/^class MyHashMap$/;"	c
+MyHashSet	HashSet.h	/^    MyHashSet()$/;"	f	class:MyHashSet
+MyHashSet	HashSet.h	/^class MyHashSet$/;"	c
+N	Solutions/chapter_3/exercise_3-1.c	/^#define N	/;"	d	file:
+NALLOC	Solutions/chapter_8/exercise_8-6.c	/^#define NALLOC	/;"	d	file:
+NALLOC	Solutions/chapter_8/exercise_8-7.c	/^#define NALLOC	/;"	d	file:
+NALLOC	Solutions/chapter_8/exercise_8-8.c	/^#define NALLOC	/;"	d	file:
+NAME	Solutions/chapter_5/exercise_5-18.c	/^enum { NAME, PARENS, BRACKETS, ERROR };$/;"	e	enum:__anon6	file:
+NAME	Solutions/chapter_5/exercise_5-19.c	/^enum { NAME, PARENS, BRACKETS };$/;"	e	enum:__anon9	file:
+NAME	Solutions/chapter_5/exercise_5-20.c	/^enum { QUALIFIER, TYPE, NAME, NUMBER };$/;"	e	enum:__anon7	file:
+NKEYS	Solutions/chapter_6/exercise_6-1.c	/^#define	NKEYS	/;"	d	file:
+NKEYS	Solutions/chapter_6/exercise_6-2.c	/^#define NKEYS /;"	d	file:
+NOISE_WORDS	Solutions/chapter_6/exercise_6-3.c	/^char *NOISE_WORDS[] = {$/;"	v
+NOTHING	Solutions/chapter_1/exercise_1-23.c	/^#define NOTHING /;"	d	file:
+NOTHING	Solutions/chapter_1/exercise_1-24.c	/^#define NOTHING /;"	d	file:
+NULL	Solutions/chapter_8/exercise_8-2.c	/^#define NULL	/;"	d	file:
+NULL	Solutions/chapter_8/exercise_8-2.c	/^#undef NULL	/;"	d	file:
+NULL	Solutions/chapter_8/exercise_8-3.c	/^#define NULL	/;"	d	file:
+NULL	Solutions/chapter_8/exercise_8-3.c	/^#undef NULL	/;"	d	file:
+NULL	Solutions/chapter_8/exercise_8-4.c	/^#define NULL	/;"	d	file:
+NULL	Solutions/chapter_8/exercise_8-4.c	/^#undef NULL	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-10.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-11.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-3.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-4.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-5.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-6.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-7.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-8.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_4/exercise_4-9.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_5/exercise_5-10.c	/^#define NUMBER	/;"	d	file:
+NUMBER	Solutions/chapter_5/exercise_5-20.c	/^enum { QUALIFIER, TYPE, NAME, NUMBER };$/;"	e	enum:__anon7	file:
+NUMBER	Solutions/chapter_7/exercise_7-5.c	/^#define NUMBER	/;"	d	file:
+NUMBER	calculator.c	/^#define NUMBER /;"	d	file:
+NUMBER_LINES	Solutions/chapter_5/exercise_5-13.c	/^#define NUMBER_LINES	/;"	d	file:
+NUMBER_TEST_STRINGS	Solutions/chapter_3/exercise_3-3.c	/^#define NUMBER_TEST_STRINGS	/;"	d	file:
+NUMBER_TEST_STRINGS	Solutions/chapter_4/exercise_4-13.c	/^#define NUMBER_TEST_STRINGS	/;"	d	file:
+Node	HashSet.h	/^        Node(int key = 0, Node *left = nullptr, Node *right = nullptr, bool exists = true):$/;"	f	struct:MyHashSet::Node
+Node	HashSet.h	/^    struct Node$/;"	s	class:MyHashSet
+Node	LinkedList.h	/^        Node(int key, int value, Node *next):$/;"	f	struct:LinkedList::Node
+Node	LinkedList.h	/^    struct Node$/;"	s	class:LinkedList
+OBJ_DIR	Makefile	/^OBJ_DIR=obj$/;"	m
+OPEN_MAX	Solutions/chapter_8/exercise_8-2.c	/^#define OPEN_MAX	/;"	d	file:
+OPEN_MAX	Solutions/chapter_8/exercise_8-3.c	/^#define OPEN_MAX	/;"	d	file:
+OPEN_MAX	Solutions/chapter_8/exercise_8-4.c	/^#define OPEN_MAX	/;"	d	file:
+OUT	tmp.c	/^#define OUT /;"	d	file:
+OUT	word-counter.c	/^#define OUT /;"	d	file:
+PAGESIZE	Solutions/chapter_7/exercise_7-8.c	/^#define PAGESIZE	/;"	d	file:
+PARENS	Solutions/chapter_5/exercise_5-18.c	/^enum { NAME, PARENS, BRACKETS, ERROR };$/;"	e	enum:__anon6	file:
+PARENS	Solutions/chapter_5/exercise_5-19.c	/^enum { NAME, PARENS, BRACKETS };$/;"	e	enum:__anon9	file:
+PERMS	Solutions/chapter_8/exercise_8-2.c	/^#define PERMS	/;"	d	file:
+PERMS	Solutions/chapter_8/exercise_8-3.c	/^#define PERMS	/;"	d	file:
+PERMS	Solutions/chapter_8/exercise_8-4.c	/^#define PERMS	/;"	d	file:
+PI	OutputFormat.cpp	/^#define PI /;"	d	file:
+POW	Solutions/chapter_4/exercise_4-10.c	/^	POW,$/;"	e	enum:__anon14	file:
+POW	Solutions/chapter_4/exercise_4-11.c	/^	POW,$/;"	e	enum:__anon12	file:
+POW	Solutions/chapter_4/exercise_4-5.c	/^	POW,$/;"	e	enum:__anon13	file:
+POW	Solutions/chapter_4/exercise_4-6.c	/^	POW,$/;"	e	enum:__anon11	file:
+POW	Solutions/chapter_4/exercise_4-7.c	/^	POW,$/;"	e	enum:__anon16	file:
+POW	Solutions/chapter_4/exercise_4-8.c	/^	POW,$/;"	e	enum:__anon10	file:
+POW	Solutions/chapter_4/exercise_4-9.c	/^	POW,$/;"	e	enum:__anon15	file:
+POW	Solutions/chapter_5/exercise_5-10.c	/^	POW,$/;"	e	enum:__anon8	file:
+Pixel	RemoveIsland.cpp	/^struct Pixel$/;"	s	file:
+PixelType	RemoveIsland.cpp	/^enum PixelType$/;"	g	file:
+QUALIFIER	Solutions/chapter_5/exercise_5-20.c	/^enum { QUALIFIER, TYPE, NAME, NUMBER };$/;"	e	enum:__anon7	file:
+SEEK_CUR	Solutions/chapter_8/exercise_8-4.c	/^#define SEEK_CUR	/;"	d	file:
+SEEK_END	Solutions/chapter_8/exercise_8-4.c	/^#define SEEK_END	/;"	d	file:
+SEEK_SET	Solutions/chapter_8/exercise_8-4.c	/^#define SEEK_SET	/;"	d	file:
+SIN	Solutions/chapter_4/exercise_4-10.c	/^	SIN, $/;"	e	enum:__anon14	file:
+SIN	Solutions/chapter_4/exercise_4-11.c	/^	SIN, $/;"	e	enum:__anon12	file:
+SIN	Solutions/chapter_4/exercise_4-5.c	/^	SIN, $/;"	e	enum:__anon13	file:
+SIN	Solutions/chapter_4/exercise_4-6.c	/^	SIN, $/;"	e	enum:__anon11	file:
+SIN	Solutions/chapter_4/exercise_4-7.c	/^	SIN, $/;"	e	enum:__anon16	file:
+SIN	Solutions/chapter_4/exercise_4-8.c	/^	SIN, $/;"	e	enum:__anon10	file:
+SIN	Solutions/chapter_4/exercise_4-9.c	/^	SIN, $/;"	e	enum:__anon15	file:
+SIN	Solutions/chapter_5/exercise_5-10.c	/^	SIN, $/;"	e	enum:__anon8	file:
+SINGLE_QUOTE	Solutions/chapter_1/exercise_1-23.c	/^#define SINGLE_QUOTE /;"	d	file:
+SINGLE_QUOTE	Solutions/chapter_1/exercise_1-24.c	/^#define SINGLE_QUOTE /;"	d	file:
+SQRT	Solutions/chapter_4/exercise_4-10.c	/^	SQRT,$/;"	e	enum:__anon14	file:
+SQRT	Solutions/chapter_4/exercise_4-11.c	/^	SQRT,$/;"	e	enum:__anon12	file:
+SQRT	Solutions/chapter_4/exercise_4-5.c	/^	SQRT,$/;"	e	enum:__anon13	file:
+SQRT	Solutions/chapter_4/exercise_4-6.c	/^	SQRT,$/;"	e	enum:__anon11	file:
+SQRT	Solutions/chapter_4/exercise_4-7.c	/^	SQRT,$/;"	e	enum:__anon16	file:
+SQRT	Solutions/chapter_4/exercise_4-8.c	/^	SQRT,$/;"	e	enum:__anon10	file:
+SQRT	Solutions/chapter_4/exercise_4-9.c	/^	SQRT,$/;"	e	enum:__anon15	file:
+SQRT	Solutions/chapter_5/exercise_5-10.c	/^	SQRT,$/;"	e	enum:__anon8	file:
+SRC_DIR	Makefile	/^SRC_DIR=src$/;"	m
+STEP	temp.c	/^#define STEP /;"	d	file:
+SWAP	Solutions/chapter_4/exercise_4-14.c	/^#define SWAP(/;"	d	file:
+Solution	AddArrayInteger.h	/^class Solution$/;"	c
+Solution	AddStrings.h	/^class Solution$/;"	c
+Solution	AddTwoNumbers.h	/^class Solution {$/;"	c
+Solution	ValidateSudoku.h	/^class Solution$/;"	c
+SortedMerge	MergeSortedLists.h	/^ListNode *SortedMerge(ListNode *a, ListNode *b)$/;"	f
+StringAppend	main.c	/^char *StringAppend(char *src, char *append)$/;"	f
+StringCopy	main.c	/^void StringCopy(char *to, char *from)$/;"	f
+StringIsEqual	main.c	/^int StringIsEqual(char *s1, char *s2)$/;"	f
+StringLength	main.c	/^unsigned StringLength(char *str)$/;"	f
+StringRemoveAllCharacter	main.c	/^void StringRemoveAllCharacter(char *s, char c)$/;"	f
+StringSubstring	main.c	/^char *StringSubstring(char *str, int startIdx, int endIdx)$/;"	f
+StringToLowerCase	main.c	/^void StringToLowerCase(char *str)$/;"	f
+StringToUpperCase	main.c	/^void StringToUpperCase(char *str)$/;"	f
+StringToggleCase	main.c	/^void StringToggleCase(char *str)$/;"	f
+TABSIZE	Solutions/chapter_7/exercise_7-2.c	/^#define TABSIZE	/;"	d	file:
+TABSIZE	Solutions/chapter_7/exercise_7-8.c	/^#define TABSIZE	/;"	d	file:
+TABSIZE	Solutions/chapter_8/exercise_8-2.c	/^#define TABSIZE /;"	d	file:
+TABSIZE	Solutions/chapter_8/exercise_8-3.c	/^#define TABSIZE /;"	d	file:
+TESTNAME	Solutions/chapter_6/exercise_6-5.c	/^#define TESTNAME	/;"	d	file:
+TEST_ASSERT	acutest.hpp	/^#define TEST_ASSERT(/;"	d
+TEST_ASSERT_	acutest.hpp	/^#define TEST_ASSERT_(/;"	d
+TEST_CASE	acutest.hpp	/^#define TEST_CASE(/;"	d
+TEST_CASE_	acutest.hpp	/^#define TEST_CASE_(/;"	d
+TEST_CASE_MAXSIZE	acutest.hpp	/^    #define TEST_CASE_MAXSIZE /;"	d
+TEST_CHECK	acutest.hpp	/^#define TEST_CHECK(/;"	d
+TEST_CHECK_	acutest.hpp	/^#define TEST_CHECK_(/;"	d
+TEST_DUMP	acutest.hpp	/^#define TEST_DUMP(/;"	d
+TEST_DUMP_MAXSIZE	acutest.hpp	/^    #define TEST_DUMP_MAXSIZE /;"	d
+TEST_EXCEPTION	acutest.hpp	/^#define TEST_EXCEPTION(/;"	d
+TEST_EXCEPTION_	acutest.hpp	/^#define TEST_EXCEPTION_(/;"	d
+TEST_LIST	acutest.hpp	/^#define TEST_LIST /;"	d
+TEST_MSG	acutest.hpp	/^#define TEST_MSG(/;"	d
+TEST_MSG_MAXSIZE	acutest.hpp	/^    #define TEST_MSG_MAXSIZE /;"	d
+TEST_STRING	Solutions/chapter_2/exercise_2-3.c	/^#define TEST_STRING	/;"	d	file:
+TEST_STRINGS	Solutions/chapter_3/exercise_3-3.c	/^char *TEST_STRINGS[NUMBER_TEST_STRINGS] = {$/;"	v
+TEST_STRINGS	Solutions/chapter_4/exercise_4-13.c	/^char *TEST_STRINGS[NUMBER_TEST_STRINGS] = {$/;"	v
+TEST_VALUE	Solutions/chapter_3/exercise_3-5.c	/^#define TEST_VALUE	/;"	d	file:
+TEST_VALUE	Solutions/chapter_4/exercise_4-12.c	/^#define TEST_VALUE	/;"	d	file:
+TOKEN_TOO_LONG	Solutions/chapter_6/exercise_6-6.c	/^	TOKEN_TOO_LONG, $/;"	e	enum:__anon5	file:
+TYPE	Solutions/chapter_5/exercise_5-20.c	/^enum { QUALIFIER, TYPE, NAME, NUMBER };$/;"	e	enum:__anon7	file:
+UNFINISHED_CONSTANT	Solutions/chapter_6/exercise_6-6.c	/^	UNFINISHED_CONSTANT, $/;"	e	enum:__anon5	file:
+UNKNOWN	Solutions/chapter_4/exercise_4-10.c	/^	UNKNOWN$/;"	e	enum:__anon14	file:
+UNKNOWN	Solutions/chapter_4/exercise_4-11.c	/^	UNKNOWN$/;"	e	enum:__anon12	file:
+UNKNOWN	Solutions/chapter_4/exercise_4-5.c	/^	UNKNOWN$/;"	e	enum:__anon13	file:
+UNKNOWN	Solutions/chapter_4/exercise_4-6.c	/^	UNKNOWN$/;"	e	enum:__anon11	file:
+UNKNOWN	Solutions/chapter_4/exercise_4-7.c	/^	UNKNOWN$/;"	e	enum:__anon16	file:
+UNKNOWN	Solutions/chapter_4/exercise_4-8.c	/^	UNKNOWN$/;"	e	enum:__anon10	file:
+UNKNOWN	Solutions/chapter_4/exercise_4-9.c	/^	UNKNOWN$/;"	e	enum:__anon15	file:
+UNKNOWN	Solutions/chapter_5/exercise_5-10.c	/^	UNKNOWN$/;"	e	enum:__anon8	file:
+V	Solutions/chapter_3/exercise_3-1.c	/^int V[N] = { 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 31 };$/;"	v
+VISITED	RemoveIsland.cpp	/^    VISITED$/;"	e	enum:PixelType	file:
+Vertex	Graph.h	/^Vertex<K, V>::Vertex(const K &key, const V &value) : key(key), value(value)$/;"	f	class:Vertex
+Vertex	Graph.h	/^Vertex<K, V>::Vertex(const Vertex<K, V> &other)$/;"	f	class:Vertex
+Vertex	Graph.h	/^class Vertex$/;"	c
+WARNINGS	Makefile	/^WARNINGS=-pedantic -Wall -Werror -Wfatal-errors -Wextra -Wno-unused-parameter -Wno-unused-variable$/;"	m
+WHITE	RemoveIsland.cpp	/^    WHITE,$/;"	e	enum:PixelType	file:
+_EOF	Solutions/chapter_8/exercise_8-3.c	/^	_EOF	= 010,$/;"	e	enum:_flags	file:
+_EOF	Solutions/chapter_8/exercise_8-4.c	/^	_EOF	= 010,$/;"	e	enum:_flags	file:
+_ERR	Solutions/chapter_8/exercise_8-3.c	/^	_ERR	= 020$/;"	e	enum:_flags	file:
+_ERR	Solutions/chapter_8/exercise_8-4.c	/^	_ERR	= 020$/;"	e	enum:_flags	file:
+_READ	Solutions/chapter_8/exercise_8-3.c	/^	_READ	= 01,$/;"	e	enum:_flags	file:
+_READ	Solutions/chapter_8/exercise_8-4.c	/^	_READ	= 01,$/;"	e	enum:_flags	file:
+_UNBUF	Solutions/chapter_8/exercise_8-3.c	/^	_UNBUF	= 04,$/;"	e	enum:_flags	file:
+_UNBUF	Solutions/chapter_8/exercise_8-4.c	/^	_UNBUF	= 04,$/;"	e	enum:_flags	file:
+_WRITE	Solutions/chapter_8/exercise_8-3.c	/^	_WRITE	= 02,$/;"	e	enum:_flags	file:
+_WRITE	Solutions/chapter_8/exercise_8-4.c	/^	_WRITE	= 02,$/;"	e	enum:_flags	file:
+_copy	Graph.h	/^void Graph<K, V>::_copy(const Graph<K, V> &g)$/;"	f	class:Graph
+_destroy	Graph.h	/^void Graph<K, V>::_destroy()$/;"	f	class:Graph
+_fillbuf	Solutions/chapter_8/exercise_8-2.c	/^int _fillbuf (FILE *fp)$/;"	f
+_fillbuf	Solutions/chapter_8/exercise_8-3.c	/^int _fillbuf (FILE *fp)$/;"	f
+_fillbuf	Solutions/chapter_8/exercise_8-4.c	/^int _fillbuf (FILE *fp)$/;"	f
+_flags	Solutions/chapter_8/exercise_8-3.c	/^enum _flags {$/;"	g	file:
+_flags	Solutions/chapter_8/exercise_8-4.c	/^enum _flags {$/;"	g	file:
+_flush	Solutions/chapter_8/exercise_8-2.c	/^int _flush (FILE *fp) $/;"	f
+_flush	Solutions/chapter_8/exercise_8-3.c	/^int _flush (FILE *fp) $/;"	f
+_flush	Solutions/chapter_8/exercise_8-4.c	/^int _flush (FILE *fp) $/;"	f
+_flushbuf	Solutions/chapter_8/exercise_8-2.c	/^int _flushbuf (int x, FILE *fp)$/;"	f
+_flushbuf	Solutions/chapter_8/exercise_8-3.c	/^int _flushbuf (int x, FILE *fp)$/;"	f
+_flushbuf	Solutions/chapter_8/exercise_8-4.c	/^int _flushbuf (int x, FILE *fp)$/;"	f
+_iob	Solutions/chapter_8/exercise_8-2.c	/^FILE _iob[OPEN_MAX] = {$/;"	v
+_iob	Solutions/chapter_8/exercise_8-3.c	/^FILE _iob[OPEN_MAX] = {$/;"	v
+_iob	Solutions/chapter_8/exercise_8-4.c	/^FILE _iob[OPEN_MAX] = {$/;"	v
+_iobuf	Solutions/chapter_8/exercise_8-2.c	/^typedef struct _iobuf {$/;"	s	file:
+_iobuf	Solutions/chapter_8/exercise_8-3.c	/^typedef struct _iobuf {$/;"	s	file:
+_iobuf	Solutions/chapter_8/exercise_8-4.c	/^typedef struct _iobuf {$/;"	s	file:
+acutest_AmIBeingDebugged	acutest.hpp	/^acutest_AmIBeingDebugged(void)$/;"	f
+acutest_abort_	acutest.hpp	/^acutest_abort_(void)$/;"	f
+acutest_abort_has_jmp_buf_	acutest.hpp	/^static int acutest_abort_has_jmp_buf_ = 0;$/;"	v
+acutest_abort_jmp_buf_	acutest.hpp	/^static jmp_buf acutest_abort_jmp_buf_;$/;"	v
+acutest_argv0_	acutest.hpp	/^static char* acutest_argv0_ = NULL;$/;"	v
+acutest_begin_test_line_	acutest.hpp	/^acutest_begin_test_line_(const struct acutest_test_* test)$/;"	f
+acutest_case_	acutest.hpp	/^acutest_case_(const char* fmt, ...)$/;"	f
+acutest_case_already_logged_	acutest.hpp	/^static int acutest_case_already_logged_ = 0;$/;"	v
+acutest_case_name_	acutest.hpp	/^static char acutest_case_name_[TEST_CASE_MAXSIZE] = "";$/;"	v
+acutest_check_	acutest.hpp	/^acutest_check_(int cond, const char* file, int line, const char* fmt, ...)$/;"	f
+acutest_cleanup_	acutest.hpp	/^acutest_cleanup_(void)$/;"	f
+acutest_cmdline_callback_	acutest.hpp	/^acutest_cmdline_callback_(int id, const char* arg)$/;"	f
+acutest_cmdline_handle_short_opt_group_	acutest.hpp	/^acutest_cmdline_handle_short_opt_group_(const ACUTEST_CMDLINE_OPTION_* options,$/;"	f
+acutest_cmdline_options_	acutest.hpp	/^static const ACUTEST_CMDLINE_OPTION_ acutest_cmdline_options_[] = {$/;"	v
+acutest_cmdline_read_	acutest.hpp	/^acutest_cmdline_read_(const ACUTEST_CMDLINE_OPTION_* options, int argc, char** argv,$/;"	f
+acutest_colored_printf_	acutest.hpp	/^acutest_colored_printf_(int color, const char* fmt, ...)$/;"	f
+acutest_colorize_	acutest.hpp	/^static int acutest_colorize_ = 0;$/;"	v
+acutest_cond_failed_	acutest.hpp	/^static int acutest_cond_failed_ = 0;$/;"	v
+acutest_count_	acutest.hpp	/^static size_t acutest_count_ = 0;$/;"	v
+acutest_current_index_	acutest.hpp	/^static int acutest_current_index_ = 0;$/;"	v
+acutest_current_test_	acutest.hpp	/^static const struct acutest_test_* acutest_current_test_ = NULL;$/;"	v	typeref:struct:acutest_test_
+acutest_do_run_	acutest.hpp	/^acutest_do_run_(const struct acutest_test_* test, int index)$/;"	f
+acutest_dump_	acutest.hpp	/^acutest_dump_(const char* title, const void* addr, size_t size)$/;"	f
+acutest_error_	acutest.hpp	/^acutest_error_(const char* fmt, ...)$/;"	f
+acutest_exit_	acutest.hpp	/^acutest_exit_(int exit_code)$/;"	f
+acutest_fini_	acutest.hpp	/^acutest_fini_(const char *test_name)$/;"	f
+acutest_finish_test_line_	acutest.hpp	/^acutest_finish_test_line_(int result)$/;"	f
+acutest_help_	acutest.hpp	/^acutest_help_(void)$/;"	f
+acutest_init_	acutest.hpp	/^acutest_init_(const char *test_name)$/;"	f
+acutest_is_tracer_present_	acutest.hpp	/^acutest_is_tracer_present_(void)$/;"	f
+acutest_line_indent_	acutest.hpp	/^acutest_line_indent_(int level)$/;"	f
+acutest_list_names_	acutest.hpp	/^acutest_list_names_(void)$/;"	f
+acutest_list_size_	acutest.hpp	/^static size_t acutest_list_size_ = 0;$/;"	v
+acutest_lookup_	acutest.hpp	/^acutest_lookup_(const char* pattern)$/;"	f
+acutest_message_	acutest.hpp	/^acutest_message_(const char* fmt, ...)$/;"	f
+acutest_name_contains_word_	acutest.hpp	/^acutest_name_contains_word_(const char* name, const char* pattern)$/;"	f
+acutest_no_exec_	acutest.hpp	/^static int acutest_no_exec_ = -1;$/;"	v
+acutest_no_summary_	acutest.hpp	/^static int acutest_no_summary_ = 0;$/;"	v
+acutest_remember_	acutest.hpp	/^acutest_remember_(int i)$/;"	f
+acutest_run_	acutest.hpp	/^acutest_run_(const struct acutest_test_* test, int index, int master_index)$/;"	f
+acutest_seh_exception_filter_	acutest.hpp	/^acutest_seh_exception_filter_(EXCEPTION_POINTERS *ptrs)$/;"	f
+acutest_set_duration_	acutest.hpp	/^acutest_set_duration_(int i, double duration)$/;"	f
+acutest_set_success_	acutest.hpp	/^acutest_set_success_(int i, int success)$/;"	f
+acutest_skip_mode_	acutest.hpp	/^static int acutest_skip_mode_ = 0;$/;"	v
+acutest_stat_failed_units_	acutest.hpp	/^static int acutest_stat_failed_units_ = 0;$/;"	v
+acutest_stat_run_units_	acutest.hpp	/^static int acutest_stat_run_units_ = 0;$/;"	v
+acutest_tap_	acutest.hpp	/^static int acutest_tap_ = 0;$/;"	v
+acutest_test_	acutest.hpp	/^struct acutest_test_ {$/;"	s
+acutest_test_CMDLINE_OPTION_	acutest.hpp	/^typedef struct acutest_test_CMDLINE_OPTION_ {$/;"	s
+acutest_test_already_logged_	acutest.hpp	/^static int acutest_test_already_logged_ = 0;$/;"	v
+acutest_test_data_	acutest.hpp	/^static struct acutest_test_data_* acutest_test_data_ = NULL;$/;"	v	typeref:struct:acutest_test_data_
+acutest_test_data_	acutest.hpp	/^struct acutest_test_data_ {$/;"	s
+acutest_test_failures_	acutest.hpp	/^static int acutest_test_failures_ = 0;$/;"	v
+acutest_timer_	acutest.hpp	/^static int acutest_timer_ = 0;$/;"	v
+acutest_timer_diff_	acutest.hpp	/^    acutest_timer_diff_(LARGE_INTEGER start, LARGE_INTEGER end)$/;"	f
+acutest_timer_diff_	acutest.hpp	/^    acutest_timer_diff_(int start, int end)$/;"	f
+acutest_timer_diff_	acutest.hpp	/^    acutest_timer_diff_(struct timespec start, struct timespec end)$/;"	f
+acutest_timer_end_	acutest.hpp	/^    static acutest_timer_type_ acutest_timer_end_;$/;"	v
+acutest_timer_freq_	acutest.hpp	/^    static LARGE_INTEGER acutest_timer_freq_;$/;"	v
+acutest_timer_get_time_	acutest.hpp	/^    acutest_timer_get_time_(LARGE_INTEGER* ts)$/;"	f
+acutest_timer_get_time_	acutest.hpp	/^    acutest_timer_get_time_(int* ts)$/;"	f
+acutest_timer_get_time_	acutest.hpp	/^    acutest_timer_get_time_(struct timespec* ts)$/;"	f
+acutest_timer_id_	acutest.hpp	/^    static clockid_t acutest_timer_id_;$/;"	v
+acutest_timer_init_	acutest.hpp	/^    acutest_timer_init_(void)$/;"	f
+acutest_timer_print_diff_	acutest.hpp	/^    acutest_timer_print_diff_(void)$/;"	f
+acutest_timer_start_	acutest.hpp	/^    static acutest_timer_type_ acutest_timer_start_;$/;"	v
+acutest_timer_type_	acutest.hpp	/^    typedef LARGE_INTEGER acutest_timer_type_;$/;"	t
+acutest_timer_type_	acutest.hpp	/^    typedef int acutest_timer_type_;$/;"	t
+acutest_timer_type_	acutest.hpp	/^    typedef struct timespec acutest_timer_type_;$/;"	t	typeref:struct:timespec
+acutest_verbose_level_	acutest.hpp	/^static int acutest_verbose_level_ = 2;$/;"	v
+acutest_was_aborted_	acutest.hpp	/^static int acutest_was_aborted_ = 0;$/;"	v
+acutest_worker_	acutest.hpp	/^static int acutest_worker_ = 0;$/;"	v
+acutest_worker_index_	acutest.hpp	/^static int acutest_worker_index_ = 0;$/;"	v
+acutest_xml_output_	acutest.hpp	/^static FILE *acutest_xml_output_ = NULL;$/;"	v
+add	HashSet.h	/^    Node *add(Node* current, int key)$/;"	f	class:MyHashSet
+add	HashSet.h	/^    void add(int key)$/;"	f	class:MyHashSet
+addStrings	AddStrings.h	/^    string addStrings(string num1, string num2)$/;"	f	class:Solution
+addToArrayForm	AddArrayInteger.h	/^    vector<int> addToArrayForm(vector<int> &num, int k)$/;"	f	class:Solution
+addTwoNumbers	AddTwoNumbers.h	/^    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) $/;"	f	class:Solution
+addtree	Solutions/chapter_6/exercise_6-2.c	/^struct tnode *addtree (struct tnode *p, char *w)$/;"	f
+addtree	Solutions/chapter_6/exercise_6-3.c	/^struct tnode *addtree (struct tnode *p, char *w, int is_noise)$/;"	f
+addtree	Solutions/chapter_6/exercise_6-4.c	/^struct tnode *addtree (struct tnode *p, char *w)$/;"	f
+adj	Graph.h	/^    std::list<Edge<K> *> adj;   \/\/ Edges that start from this vertex and end at another vertex.$/;"	m	class:Vertex
+adjIn	Graph.h	/^    std::list<Edge<K> *> adjIn; \/\/ Edges that start at another vertex and end at this vertex.$/;"	m	class:Vertex
+afree	dynamic_memory.c	/^void afree(char *p) {$/;"	f
+alloc	Solutions/chapter_5/exercise_5-13.c	/^char *alloc (int n)$/;"	f
+alloc	Solutions/chapter_5/exercise_5-14.c	/^char *alloc (int n)$/;"	f
+alloc	Solutions/chapter_5/exercise_5-15.c	/^char *alloc (int n)$/;"	f
+alloc	Solutions/chapter_5/exercise_5-16.c	/^char *alloc (int n)$/;"	f
+alloc	Solutions/chapter_5/exercise_5-17.c	/^char *alloc (int n)$/;"	f
+alloc	dynamic_memory.c	/^char *alloc(int n) { $/;"	f
+allocbuf	Solutions/chapter_5/exercise_5-13.c	/^char 	allocbuf[ALLOCSIZE];$/;"	v
+allocbuf	Solutions/chapter_5/exercise_5-14.c	/^char 	allocbuf[ALLOCSIZE];$/;"	v
+allocbuf	Solutions/chapter_5/exercise_5-15.c	/^char 	allocbuf[ALLOCSIZE];$/;"	v
+allocbuf	Solutions/chapter_5/exercise_5-16.c	/^char 	allocbuf[ALLOCSIZE];$/;"	v
+allocbuf	Solutions/chapter_5/exercise_5-17.c	/^char 	allocbuf[ALLOCSIZE];$/;"	v
+allocbuf	dynamic_memory.c	/^static char allocbuf[ALLOCSIZE]; \/* storage for alloc *\/$/;"	v	file:
+allocp	Solutions/chapter_5/exercise_5-13.c	/^char	*allocp = allocbuf;$/;"	v
+allocp	Solutions/chapter_5/exercise_5-14.c	/^char	*allocp = allocbuf;$/;"	v
+allocp	Solutions/chapter_5/exercise_5-15.c	/^char	*allocp = allocbuf;$/;"	v
+allocp	Solutions/chapter_5/exercise_5-16.c	/^char	*allocp = allocbuf;$/;"	v
+allocp	Solutions/chapter_5/exercise_5-17.c	/^char	*allocp = allocbuf;$/;"	v
+allocp	dynamic_memory.c	/^static char *allocp = &allocbuf[0]; \/* next free position *\/$/;"	v	file:
+any	Solutions/chapter_2/exercise_2-5.c	/^int any (char s1[], char s2[])$/;"	f
+arguments	Solutions/chapter_5/exercise_5-10.c	/^char    **arguments;$/;"	v
+array	Solutions/chapter_8/exercise_8-8.c	/^char	array[ARRAYSIZE];$/;"	v
+atof	Solutions/chapter_4/exercise_4-2.c	/^double atof (char s[])$/;"	f
+atof	Solutions/chapter_5/exercise_5-14.c	/^double atof (char s[])$/;"	f
+atof	Solutions/chapter_5/exercise_5-15.c	/^double atof (char s[])$/;"	f
+atof	Solutions/chapter_5/exercise_5-16.c	/^double atof (char s[])$/;"	f
+atof	Solutions/chapter_5/exercise_5-17.c	/^double atof (char s[])$/;"	f
+balanced	balance_brackets.cpp	/^bool balanced(queue<char> q) {$/;"	f
+base	Solutions/chapter_8/exercise_8-2.c	/^	char	*base;$/;"	m	struct:_iobuf	file:
+base	Solutions/chapter_8/exercise_8-3.c	/^	char	*base;$/;"	m	struct:_iobuf	file:
+base	Solutions/chapter_8/exercise_8-4.c	/^	char	*base;$/;"	m	struct:_iobuf	file:
+base	Solutions/chapter_8/exercise_8-6.c	/^static Header	base;$/;"	v	file:
+base	Solutions/chapter_8/exercise_8-7.c	/^static Header	base;$/;"	v	file:
+base	Solutions/chapter_8/exercise_8-8.c	/^static Header	base;$/;"	v	file:
+bfree	Solutions/chapter_8/exercise_8-8.c	/^void bfree (void *p, unsigned n)$/;"	f
+bfs	Graph.h	/^void Graph<K, V>::bfs(const K &src, const K &dest)$/;"	f	class:Graph
+binsearch	Solutions/chapter_3/exercise_3-1.c	/^int binsearch (int x, int v[], int n)$/;"	f
+binsearch	Solutions/chapter_6/exercise_6-1.c	/^int binsearch (char *word, struct key tab[], int n)$/;"	f
+binsearch	Solutions/chapter_6/exercise_6-2.c	/^int binsearch (char *word, char *tab[], int n)$/;"	f
+bitcount	Solutions/chapter_2/exercise_2-9.c	/^int bitcount (unsigned x)$/;"	f
+buf	Solutions/chapter_4/exercise_4-3.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_4/exercise_4-4.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_4/exercise_4-5.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_4/exercise_4-6.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_4/exercise_4-7.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_4/exercise_4-9.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_5/exercise_5-1.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_5/exercise_5-18.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_5/exercise_5-19.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_5/exercise_5-2.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_5/exercise_5-20.c	/^char	buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_6/exercise_6-1.c	/^char    buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_6/exercise_6-2.c	/^char    buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_6/exercise_6-3.c	/^char    buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_6/exercise_6-4.c	/^char    buf[BUFSIZE];$/;"	v
+buf	Solutions/chapter_6/exercise_6-6.c	/^char    buf[BUFSIZE];$/;"	v
+buf	calculator.c	/^char buf[BUFFSIZE]; \/* buffer for ungetch *\/$/;"	v
+bufp	Solutions/chapter_4/exercise_4-3.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_4/exercise_4-4.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_4/exercise_4-5.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_4/exercise_4-6.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_4/exercise_4-7.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_4/exercise_4-9.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_5/exercise_5-1.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_5/exercise_5-18.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_5/exercise_5-19.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_5/exercise_5-2.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_5/exercise_5-20.c	/^int	bufp = 0;$/;"	v
+bufp	Solutions/chapter_6/exercise_6-1.c	/^int     bufp = 0;$/;"	v
+bufp	Solutions/chapter_6/exercise_6-2.c	/^int     bufp = 0;$/;"	v
+bufp	Solutions/chapter_6/exercise_6-3.c	/^int     bufp = 0;$/;"	v
+bufp	Solutions/chapter_6/exercise_6-4.c	/^int     bufp = 0;$/;"	v
+bufp	Solutions/chapter_6/exercise_6-6.c	/^int     bufp = 0;$/;"	v
+bufp	calculator.c	/^int bufp = 0; \/* next free position in buf *\/$/;"	v
+bufpos	Solutions/chapter_8/exercise_8-4.c	/^	long	bufpos;	$/;"	m	struct:_iobuf	file:
+c	Functor.cpp	/^    int c;$/;"	m	struct:Entity	file:
+calloc	Solutions/chapter_8/exercise_8-6.c	/^void *calloc (unsigned n, unsigned size)$/;"	f
+celcius	Solutions/chapter_1/exercise_1-15.c	/^float celcius (float fahr)$/;"	f
+clear	HashSet.h	/^    void clear(Node *current)$/;"	f	class:MyHashSet
+clear	LinkedList.h	/^    void clear()$/;"	f	class:LinkedList
+clear_stack	Solutions/chapter_4/exercise_4-10.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_4/exercise_4-11.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_4/exercise_4-4.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_4/exercise_4-5.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_4/exercise_4-6.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_4/exercise_4-7.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_4/exercise_4-8.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_4/exercise_4-9.c	/^void clear_stack (void)$/;"	f
+clear_stack	Solutions/chapter_5/exercise_5-10.c	/^void clear_stack (void)$/;"	f
+cnt	Solutions/chapter_8/exercise_8-2.c	/^	int	cnt;$/;"	m	struct:_iobuf	file:
+cnt	Solutions/chapter_8/exercise_8-3.c	/^	int	cnt;$/;"	m	struct:_iobuf	file:
+cnt	Solutions/chapter_8/exercise_8-4.c	/^	int	cnt;$/;"	m	struct:_iobuf	file:
+col	RemoveIsland.cpp	/^    int col;$/;"	m	struct:Pixel	file:
+contains	HashSet.h	/^    bool contains(Node* current, int key)$/;"	f	class:MyHashSet
+contains	HashSet.h	/^    bool contains(int key)$/;"	f	class:MyHashSet
+copy	Solutions/chapter_1/exercise_1-16.c	/^void copy (char to[], char from[])$/;"	f
+copy	Solutions/chapter_2/exercise_2-2.c	/^void copy (char to[], char from[])$/;"	f
+copy	arrays.c	/^void copy(char from[], char to[]) {$/;"	f
+copyChar	io.c	/^void copyChar() {$/;"	f
+count	Solutions/chapter_6/exercise_6-1.c	/^	int	count;$/;"	m	struct:key	file:
+count	Solutions/chapter_6/exercise_6-4.c	/^	int		count;$/;"	m	struct:tnode	file:
+count	longest_substring.cpp	/^long count(size_t start, size_t end, string s)$/;"	f
+countChar	io.c	/^void countChar() {$/;"	f
+countLines	io.c	/^void countLines() {$/;"	f
+create_edge	Graph.h	/^void Graph<K, V>::create_edge(const K &src, const K &dest, float distance)$/;"	f	class:Graph
+create_vertex	Graph.h	/^void Graph<K, V>::create_vertex(const K &key, const V &value)$/;"	f	class:Graph
+current_field	Solutions/chapter_5/exercise_5-17.c	/^int	number_fields, current_field;$/;"	v
+datatype	Solutions/chapter_5/exercise_5-18.c	/^char	datatype[MAXTOKEN];$/;"	v
+day_of_year	Solutions/chapter_5/exercise_5-8.c	/^int day_of_year (int year, int month, int day)$/;"	f
+day_of_year	Solutions/chapter_5/exercise_5-9.c	/^int day_of_year (int year, int month, int day)$/;"	f
+daytab	Solutions/chapter_5/exercise_5-8.c	/^static char daytab[2][13] = {$/;"	v	file:
+daytab	Solutions/chapter_5/exercise_5-9.c	/^static char daytab[2][13] = {$/;"	v	file:
+dcl	Solutions/chapter_5/exercise_5-18.c	/^int dcl (void)$/;"	f
+dcl	Solutions/chapter_5/exercise_5-20.c	/^int dcl (char *qualifier, char *type, char *name, char *out)$/;"	f
+defn	Solutions/chapter_6/exercise_6-5.c	/^	char		*defn;$/;"	m	struct:nlist	file:
+defn	Solutions/chapter_6/exercise_6-6.c	/^	char		*defn;$/;"	m	struct:nlist	file:
+degree	Graph.h	/^unsigned Vertex<K, V>::degree() const$/;"	f	class:Vertex
+destination	Graph.h	/^    K destination;$/;"	m	class:Edge
+detab	Solutions/chapter_1/exercise_1-20.c	/^void detab (int n)$/;"	f
+detab	Solutions/chapter_5/exercise_5-11b.c	/^void detab (int nstops, int stops[], int m, int n)$/;"	f
+detab	Solutions/chapter_5/exercise_5-12b.c	/^void detab (int m, int n)$/;"	f
+dijkstra	Graph.h	/^void Graph<K, V>::dijkstra(const K &src, const K &dest)$/;"	f	class:Graph
+dirdcl	Solutions/chapter_5/exercise_5-18.c	/^int dirdcl (void)$/;"	f
+dirdcl	Solutions/chapter_5/exercise_5-20.c	/^int dirdcl (char *qualifier, char *type, char *name, char *out)$/;"	f
+directory	Solutions/chapter_5/exercise_5-16.c	/^int	directory = 0;$/;"	v
+directory	Solutions/chapter_5/exercise_5-17.c	/^int	directory[MAXFIELDS];$/;"	v
+dirs	RemoveIsland.cpp	/^const Pixel dirs[4] = {$/;"	v
+dirwalk	Solutions/chapter_8/exercise_8-5.c	/^void dirwalk (char *dir, void (*fcn) (char *))$/;"	f
+distance	Graph.h	/^    float distance;$/;"	m	class:Edge
+distance	Graph.h	/^    float distance;$/;"	m	class:Vertex
+distance	OutputFormat.cpp	/^float distance(float x1, float y1, float x2, float y2) {$/;"	f
+duration	acutest.hpp	/^    double duration;$/;"	m	struct:acutest_test_data_
+edges	Graph.h	/^    std::vector<Edge<K> *> edges;$/;"	m	class:Graph
+empty	AddTwoNumbers.h	/^    bool empty()$/;"	f	struct:List
+empty	Graph.h	/^    bool empty() const { return vertices.empty(); }$/;"	f	class:Graph
+empty	LinkedList.h	/^    bool empty() const$/;"	f	class:LinkedList
+end	arrays.c	/^#define end /;"	d	file:
+entab	Solutions/chapter_1/exercise_1-21.c	/^void entab (int n)$/;"	f
+entab	Solutions/chapter_5/exercise_5-11a.c	/^void entab (int nstops, int stops[], int m, int n)$/;"	f
+entab	Solutions/chapter_5/exercise_5-12a.c	/^void entab (int m, int n)$/;"	f
+eof	Solutions/chapter_8/exercise_8-2.c	/^		unsigned	eof 	: 1;$/;"	m	struct:_iobuf::__anon3	file:
+eof_pushedback	Solutions/chapter_4/exercise_4-9.c	/^int	eof_pushedback = 0;$/;"	v
+err	Solutions/chapter_8/exercise_8-2.c	/^		unsigned	err 	: 1;$/;"	m	struct:_iobuf::__anon3	file:
+escape	Solutions/chapter_3/exercise_3-2.c	/^void escape (char s[], char t[])$/;"	f
+exists	HashSet.h	/^        bool exists;$/;"	m	struct:MyHashSet::Node
+expand	Solutions/chapter_3/exercise_3-3.c	/^void expand (char s1[], char s2[])$/;"	f
+extract	Solutions/chapter_6/exercise_6-4.c	/^void extract (struct tnode *p)$/;"	f
+fclose	Solutions/chapter_8/exercise_8-2.c	/^int fclose (FILE *fp)$/;"	f
+fclose	Solutions/chapter_8/exercise_8-3.c	/^int fclose (FILE *fp)$/;"	f
+fclose	Solutions/chapter_8/exercise_8-4.c	/^int fclose (FILE *fp)$/;"	f
+fd	Solutions/chapter_8/exercise_8-2.c	/^	int	fd;$/;"	m	struct:_iobuf	file:
+fd	Solutions/chapter_8/exercise_8-3.c	/^	int	fd;$/;"	m	struct:_iobuf	file:
+fd	Solutions/chapter_8/exercise_8-4.c	/^	int	fd;$/;"	m	struct:_iobuf	file:
+feof	Solutions/chapter_8/exercise_8-2.c	/^#define feof(/;"	d	file:
+feof	Solutions/chapter_8/exercise_8-3.c	/^#define feof(/;"	d	file:
+feof	Solutions/chapter_8/exercise_8-4.c	/^#define feof(/;"	d	file:
+ferror	Solutions/chapter_8/exercise_8-2.c	/^#define ferror(/;"	d	file:
+ferror	Solutions/chapter_8/exercise_8-3.c	/^#define ferror(/;"	d	file:
+ferror	Solutions/chapter_8/exercise_8-4.c	/^#define ferror(/;"	d	file:
+fflush	Solutions/chapter_8/exercise_8-2.c	/^int fflush (FILE *fp)$/;"	f
+fflush	Solutions/chapter_8/exercise_8-3.c	/^int fflush (FILE *fp)$/;"	f
+fflush	Solutions/chapter_8/exercise_8-4.c	/^int fflush (FILE *fp)$/;"	f
+fieldsptr	Solutions/chapter_5/exercise_5-17.c	/^char	*fieldsptr[MAXFIELDS][MAXLINES];$/;"	v
+filecopy	Solutions/chapter_8/exercise_8-1.c	/^void filecopy (int ifd, int ofd)$/;"	f
+filename	Solutions/chapter_7/exercise_7-8.c	/^char	*filename;$/;"	v
+fileno	Solutions/chapter_8/exercise_8-2.c	/^#define fileno(/;"	d	file:
+fileno	Solutions/chapter_8/exercise_8-3.c	/^#define fileno(/;"	d	file:
+fileno	Solutions/chapter_8/exercise_8-4.c	/^#define fileno(/;"	d	file:
+find	LinkedList.h	/^    Node *find(int key)$/;"	f	class:LinkedList
+find_adj	Graph.h	/^Edge<K> *Vertex<K, V>::find_adj(Vertex<K, V> *other)$/;"	f	class:Vertex
+find_last_tag	test.c	/^void find_last_tag(const char *buffer)$/;"	f
+flag	Solutions/chapter_8/exercise_8-2.c	/^	} flag;$/;"	m	struct:_iobuf	typeref:struct:_iobuf::__anon3	file:
+flag	Solutions/chapter_8/exercise_8-3.c	/^	int	flag;$/;"	m	struct:_iobuf	file:
+flag	Solutions/chapter_8/exercise_8-4.c	/^	int	flag;$/;"	m	struct:_iobuf	file:
+flags	acutest.hpp	/^    unsigned char flags;$/;"	m	struct:acutest_test_data_
+flags	acutest.hpp	/^    unsigned flags;$/;"	m	struct:acutest_test_CMDLINE_OPTION_
+fold	Solutions/chapter_1/exercise_1-22.c	/^void fold (int tab_size)$/;"	f
+fold	Solutions/chapter_5/exercise_5-15.c	/^int	fold = 0;$/;"	v
+fold	Solutions/chapter_5/exercise_5-16.c	/^int	fold = 0;$/;"	v
+fold	Solutions/chapter_5/exercise_5-17.c	/^int	fold[MAXFIELDS]; $/;"	v
+foo	Functor.cpp	/^void foo(Entity &e, Entity &e2, Compare c)$/;"	f
+fopen	Solutions/chapter_8/exercise_8-2.c	/^FILE *fopen (char *name, char *mode)$/;"	f
+fopen	Solutions/chapter_8/exercise_8-3.c	/^FILE *fopen (char *name, char *mode)$/;"	f
+fopen	Solutions/chapter_8/exercise_8-4.c	/^FILE *fopen (char *name, char *mode)$/;"	f
+free	Solutions/chapter_8/exercise_8-6.c	/^void free (void *ap)$/;"	f
+free	Solutions/chapter_8/exercise_8-7.c	/^void free (void *ap)$/;"	f
+free	Solutions/chapter_8/exercise_8-8.c	/^void free (void *ap)$/;"	f
+freep	Solutions/chapter_8/exercise_8-6.c	/^static Header	*freep = NULL;$/;"	v	file:
+freep	Solutions/chapter_8/exercise_8-7.c	/^static Header	*freep = NULL;$/;"	v	file:
+freep	Solutions/chapter_8/exercise_8-8.c	/^static Header	*freep = NULL;$/;"	v	file:
+freqcmp	Solutions/chapter_6/exercise_6-4.c	/^int freqcmp (const void *a, const void *b)$/;"	f
+fseek	Solutions/chapter_8/exercise_8-4.c	/^int fseek (FILE *fp, long offset, int whence)$/;"	f
+fsize	Solutions/chapter_8/exercise_8-5.c	/^void fsize (char *name)$/;"	f
+fulldcl	Solutions/chapter_5/exercise_5-20.c	/^int fulldcl (int is_param, char *qualifier, char *type, char *name, char *out)$/;"	f
+func	acutest.hpp	/^    void (*func)(void);$/;"	m	struct:acutest_test_
+get	HashMap.h	/^    int get(int key)$/;"	f	class:MyHashMap
+getNextLine	arrays.c	/^int getNextLine(char s[]) {$/;"	f
+get_adj	Graph.h	/^std::vector<K> Vertex<K, V>::get_adj() const$/;"	f	class:Vertex
+get_ch	calculator.c	/^int get_ch(void) {$/;"	f
+get_line	pattern_finder.c	/^int get_line(char s[], int lim) {$/;"	f
+get_op	calculator.c	/^int get_op(char s[]) {$/;"	f
+getc	Solutions/chapter_8/exercise_8-2.c	/^#define getc(/;"	d	file:
+getc	Solutions/chapter_8/exercise_8-3.c	/^#define getc(/;"	d	file:
+getc	Solutions/chapter_8/exercise_8-4.c	/^#define getc(/;"	d	file:
+getch	Solutions/chapter_4/exercise_4-11.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_4/exercise_4-3.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_4/exercise_4-4.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_4/exercise_4-5.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_4/exercise_4-6.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_4/exercise_4-7.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_4/exercise_4-8.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_4/exercise_4-9.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_5/exercise_5-1.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_5/exercise_5-18.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_5/exercise_5-19.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_5/exercise_5-2.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_5/exercise_5-20.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_6/exercise_6-1.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_6/exercise_6-2.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_6/exercise_6-3.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_6/exercise_6-4.c	/^int getch (void)$/;"	f
+getch	Solutions/chapter_6/exercise_6-6.c	/^int getch (void)$/;"	f
+getchar	Solutions/chapter_8/exercise_8-2.c	/^#define getchar(/;"	d	file:
+getchar	Solutions/chapter_8/exercise_8-3.c	/^#define getchar(/;"	d	file:
+getchar	Solutions/chapter_8/exercise_8-4.c	/^#define getchar(/;"	d	file:
+getfield	Solutions/chapter_5/exercise_5-17.c	/^int getfield (char field[], int limit)$/;"	f
+getfloat	Solutions/chapter_5/exercise_5-2.c	/^int getfloat (double *pf)$/;"	f
+getint	Solutions/chapter_5/exercise_5-1.c	/^int getint (int *pn)$/;"	f
+getline	Solutions/chapter_1/exercise_1-16.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_1/exercise_1-17.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_1/exercise_1-18.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_1/exercise_1-19.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_2/exercise_2-2.c	/^int getline (char s[], int lim)$/;"	f
+getline	Solutions/chapter_4/exercise_4-1.c	/^int getline (char s[], int lim)$/;"	f
+getline	Solutions/chapter_4/exercise_4-10.c	/^int getline (char s[], int lim)$/;"	f
+getline	Solutions/chapter_5/exercise_5-13.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_5/exercise_5-14.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_5/exercise_5-15.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_5/exercise_5-16.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_5/exercise_5-7.c	/^int getline (char line[], int limit)$/;"	f
+getline	Solutions/chapter_7/exercise_7-7.c	/^int getline (FILE *fp, char *line, int max)$/;"	f
+getop	Solutions/chapter_4/exercise_4-10.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-11.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-3.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-4.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-5.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-6.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-7.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-8.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_4/exercise_4-9.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_5/exercise_5-10.c	/^int getop (char s[])$/;"	f
+getop	Solutions/chapter_7/exercise_7-5.c	/^int getop (double *n)$/;"	f
+gettoken	Solutions/chapter_5/exercise_5-18.c	/^int gettoken (void)$/;"	f
+gettoken	Solutions/chapter_5/exercise_5-19.c	/^int gettoken (void)$/;"	f
+gettoken	Solutions/chapter_5/exercise_5-20.c	/^int gettoken (void)$/;"	f
+gettoken	Solutions/chapter_6/exercise_6-6.c	/^int gettoken (char *token, int lim)$/;"	f
+getword	Solutions/chapter_6/exercise_6-1.c	/^int getword (char *word, int lim)$/;"	f
+getword	Solutions/chapter_6/exercise_6-2.c	/^int getword (char *word, int lim)$/;"	f
+getword	Solutions/chapter_6/exercise_6-3.c	/^int getword (char *word, int lim)$/;"	f
+getword	Solutions/chapter_6/exercise_6-4.c	/^int getword (char *word, int lim)$/;"	f
+has_vertex	Graph.h	/^bool Graph<K, V>::has_vertex(const K &key) const$/;"	f	class:Graph
+hash	Solutions/chapter_6/exercise_6-5.c	/^unsigned hash (char *s)$/;"	f
+hash	Solutions/chapter_6/exercise_6-6.c	/^unsigned hash (char *s)$/;"	f
+hashtab	Solutions/chapter_6/exercise_6-5.c	/^struct nlist	*hashtab[HASHSIZE];$/;"	v	typeref:struct:nlist
+hashtab	Solutions/chapter_6/exercise_6-6.c	/^struct nlist	*hashtab[HASHSIZE];$/;"	v	typeref:struct:nlist
+head	AddTwoNumbers.h	/^    ListNode *head;$/;"	m	struct:List
+head	BookShelves.c	/^    struct node *head;$/;"	m	struct:list	typeref:struct:list::node	file:
+head_	LinkedList.h	/^    Node *head_;$/;"	m	class:LinkedList
+header	Solutions/chapter_8/exercise_8-6.c	/^union header {$/;"	u	file:
+header	Solutions/chapter_8/exercise_8-7.c	/^union header {$/;"	u	file:
+header	Solutions/chapter_8/exercise_8-8.c	/^union header {$/;"	u	file:
+htoi	Solutions/chapter_2/exercise_2-3.c	/^int htoi (char s[])$/;"	f
+htoi	hex_to_int.c	/^int htoi(char hex[]) {$/;"	f
+id	acutest.hpp	/^    int id;$/;"	m	struct:acutest_test_CMDLINE_OPTION_
+index	Solutions/chapter_4/exercise_4-10.c	/^int	index = -1;$/;"	v
+insert	LinkedList.h	/^    void insert(const LinkedList &other)$/;"	f	class:LinkedList
+insert	LinkedList.h	/^    void insert(int key, int value)$/;"	f	class:LinkedList
+insertBack	AddTwoNumbers.h	/^    void insertBack(int val)$/;"	f	struct:List
+insertFront	AddTwoNumbers.h	/^    void insertFront(int val)$/;"	f	struct:List
+install	Solutions/chapter_6/exercise_6-5.c	/^struct nlist *install (char *name, char *defn)$/;"	f
+install	Solutions/chapter_6/exercise_6-6.c	/^struct nlist *install (char *name, char *defn)$/;"	f
+invert	Solutions/chapter_2/exercise_2-7.c	/^unsigned invert (unsigned x, int p, int n)$/;"	f
+isBlackPixel	RemoveIsland.cpp	/^bool isBlackPixel(Pixel p, const matrix &image)$/;"	f
+isValidSudoku	ValidateSudoku.h	/^    bool isValidSudoku(vector<vector<char>> &board)$/;"	f	class:Solution
+isVisited	RemoveIsland.cpp	/^bool isVisited(Pixel p, const matrix &image)$/;"	f
+isWhite	histogram.c	/^int isWhite(int c) {$/;"	f
+is_adj	Graph.h	/^bool Vertex<K, V>::is_adj(Vertex<K, V> *other)$/;"	f	class:Vertex
+is_noise	Solutions/chapter_6/exercise_6-3.c	/^	int		is_noise;$/;"	m	struct:tnode	file:
+is_special	longest_substring.cpp	/^int is_special(size_t start, size_t end, string s)$/;"	f
+isupper_fast	Solutions/chapter_7/exercise_7-9.c	/^int isupper_fast (int c)$/;"	f
+isupper_slow	Solutions/chapter_7/exercise_7-9.c	/^int isupper_slow (int c)$/;"	f
+itoa	Solutions/chapter_3/exercise_3-4.c	/^void itoa (int n, char s[])$/;"	f
+itoa	Solutions/chapter_3/exercise_3-6.c	/^void itoa (int n, char s[], int w)$/;"	f
+itoa	Solutions/chapter_4/exercise_4-12.c	/^void itoa (int n, char s[])$/;"	f
+itoa	Solutions/chapter_5/exercise_5-6.c	/^void itoa (int n, char *s)$/;"	f
+itob	Solutions/chapter_3/exercise_3-5.c	/^void itob (int n, char s[], int b)$/;"	f
+itob	main.c	/^char *itob(int n, int b)$/;"	f
+key	Graph.h	/^    K key;$/;"	m	class:Vertex
+key	HashSet.h	/^        int key;$/;"	m	struct:MyHashSet::Node
+key	LinkedList.h	/^        int key;$/;"	m	struct:LinkedList::Node
+key	Solutions/chapter_6/exercise_6-1.c	/^struct key {$/;"	s	file:
+keytab	Solutions/chapter_6/exercise_6-1.c	/^} keytab[] = {$/;"	v	typeref:struct:key
+keytab	Solutions/chapter_6/exercise_6-2.c	/^char *keytab[] = {$/;"	v
+last_printed	Solutions/chapter_6/exercise_6-2.c	/^char		*last_printed;$/;"	v
+left	HashSet.h	/^        Node* left;$/;"	m	struct:MyHashSet::Node
+left	Solutions/chapter_6/exercise_6-2.c	/^	struct tnode	*left;$/;"	m	struct:tnode	typeref:struct:tnode::tnode	file:
+left	Solutions/chapter_6/exercise_6-3.c	/^	struct tnode	*left;$/;"	m	struct:tnode	typeref:struct:tnode::tnode	file:
+left	Solutions/chapter_6/exercise_6-4.c	/^	struct tnode	*left;$/;"	m	struct:tnode	typeref:struct:tnode::tnode	file:
+lexicographic_sort	sort_array_of_strings.c	/^int lexicographic_sort(const char *a, const char *b)$/;"	f
+lexicographic_sort_reverse	sort_array_of_strings.c	/^int lexicographic_sort_reverse(const char *a, const char *b)$/;"	f
+line	Solutions/chapter_1/exercise_1-24.c	/^int	line;$/;"	v
+line	Solutions/chapter_4/exercise_4-10.c	/^char	line[MAXLINE];$/;"	v
+line	Solutions/chapter_6/exercise_6-3.c	/^	int		line;$/;"	m	struct:rnode	file:
+line	Solutions/chapter_6/exercise_6-3.c	/^int	line = 1;$/;"	v
+line	Solutions/chapter_7/exercise_7-8.c	/^int	page, line;$/;"	v
+linebuf	Solutions/chapter_5/exercise_5-7.c	/^char	linebuf[MAXCHARS];$/;"	v
+lineptr	Solutions/chapter_5/exercise_5-13.c	/^char	*lineptr[MAXLINES];$/;"	v
+lineptr	Solutions/chapter_5/exercise_5-14.c	/^char	*lineptr[MAXLINES];$/;"	v
+lineptr	Solutions/chapter_5/exercise_5-15.c	/^char	*lineptr[MAXLINES];$/;"	v
+lineptr	Solutions/chapter_5/exercise_5-16.c	/^char	*lineptr[MAXLINES];$/;"	v
+lineptr	Solutions/chapter_5/exercise_5-7.c	/^char	*lineptr[MAXLINES];$/;"	v
+lines	Solutions/chapter_5/exercise_5-17.c	/^int	lines[MAXFIELDS];$/;"	v
+list	BookShelves.c	/^struct list{$/;"	s	file:
+logBoundaryPixel	RemoveIsland.cpp	/^void logBoundaryPixel(Pixel p)$/;"	f
+longname	acutest.hpp	/^    const char* longname;$/;"	m	struct:acutest_test_CMDLINE_OPTION_
+lookup	Solutions/chapter_6/exercise_6-5.c	/^struct nlist *lookup (char *s)$/;"	f
+lookup	Solutions/chapter_6/exercise_6-6.c	/^struct nlist *lookup (char *s)$/;"	f
+lower	Solutions/chapter_2/exercise_2-10.c	/^int lower (int c)$/;"	f
+main	1d_arrays.c	/^int main()$/;"	f
+main	BookShelves.c	/^int main()$/;"	f
+main	Functor.cpp	/^int main()$/;"	f
+main	OutputFormat.cpp	/^int main() {$/;"	f
+main	RemoveIsland.cpp	/^int main()$/;"	f
+main	Solutions/chapter_1/exercise_1-1.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-10.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-12.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-13.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-14.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-15.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-16.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-17.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-18.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-19.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-2.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-20.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-21.c	/^int main () $/;"	f
+main	Solutions/chapter_1/exercise_1-22.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-23.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-24.c	/^int main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-3.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-4.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-5.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-6.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-7.c	/^main () $/;"	f
+main	Solutions/chapter_1/exercise_1-8.c	/^main ()$/;"	f
+main	Solutions/chapter_1/exercise_1-9.c	/^main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-1.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-10.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-2.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-3.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-4.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-5.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-6.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-7.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-8.c	/^int main ()$/;"	f
+main	Solutions/chapter_2/exercise_2-9.c	/^int main ()$/;"	f
+main	Solutions/chapter_3/exercise_3-1.c	/^int main ()$/;"	f
+main	Solutions/chapter_3/exercise_3-2.c	/^int main ()$/;"	f
+main	Solutions/chapter_3/exercise_3-3.c	/^int main ()$/;"	f
+main	Solutions/chapter_3/exercise_3-4.c	/^int main ()$/;"	f
+main	Solutions/chapter_3/exercise_3-5.c	/^int main ()$/;"	f
+main	Solutions/chapter_3/exercise_3-6.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-1.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-10.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-11.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-12.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-13.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-14.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-2.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-3.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-4.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-5.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-6.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-7.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-8.c	/^int main ()$/;"	f
+main	Solutions/chapter_4/exercise_4-9.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-1.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-10.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-11a.c	/^int main (int argc, char *argv[]) $/;"	f
+main	Solutions/chapter_5/exercise_5-11b.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-12a.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-12b.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-13.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-14.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-15.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-16.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-17.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_5/exercise_5-18.c	/^int main () $/;"	f
+main	Solutions/chapter_5/exercise_5-19.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-2.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-20.c	/^int main () $/;"	f
+main	Solutions/chapter_5/exercise_5-3.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-4.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-5.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-6.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-7.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-8.c	/^int main ()$/;"	f
+main	Solutions/chapter_5/exercise_5-9.c	/^int main ()$/;"	f
+main	Solutions/chapter_6/exercise_6-1.c	/^int main ()$/;"	f
+main	Solutions/chapter_6/exercise_6-2.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_6/exercise_6-3.c	/^int main ()$/;"	f
+main	Solutions/chapter_6/exercise_6-4.c	/^int main ()$/;"	f
+main	Solutions/chapter_6/exercise_6-5.c	/^int main ()$/;"	f
+main	Solutions/chapter_6/exercise_6-6.c	/^int main ()$/;"	f
+main	Solutions/chapter_7/exercise_7-1.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_7/exercise_7-2.c	/^int main ()$/;"	f
+main	Solutions/chapter_7/exercise_7-3.c	/^int main () $/;"	f
+main	Solutions/chapter_7/exercise_7-4.c	/^int main ()$/;"	f
+main	Solutions/chapter_7/exercise_7-5.c	/^int main ()$/;"	f
+main	Solutions/chapter_7/exercise_7-6.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_7/exercise_7-7.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_7/exercise_7-8.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_7/exercise_7-9.c	/^int main ()$/;"	f
+main	Solutions/chapter_8/exercise_8-1.c	/^int main (int argc, char *argv[])$/;"	f
+main	Solutions/chapter_8/exercise_8-2.c	/^int main ()$/;"	f
+main	Solutions/chapter_8/exercise_8-3.c	/^int main ()$/;"	f
+main	Solutions/chapter_8/exercise_8-4.c	/^int main ()$/;"	f
+main	Solutions/chapter_8/exercise_8-5.c	/^int main (int argc, char **argv)$/;"	f
+main	Solutions/chapter_8/exercise_8-6.c	/^int main ()$/;"	f
+main	Solutions/chapter_8/exercise_8-7.c	/^int main ()$/;"	f
+main	Solutions/chapter_8/exercise_8-8.c	/^int main ()$/;"	f
+main	acutest.hpp	/^main(int argc, char** argv)$/;"	f
+main	array_reverse.c	/^int main()$/;"	f
+main	arrays.c	/^int main() {$/;"	f
+main	balance_brackets.cpp	/^int main() {$/;"	f
+main	calculator.c	/^int main() {$/;"	f
+main	digit_frequecy.c	/^int main() {$/;"	f
+main	dynamic_memory.c	/^int main(){$/;"	f
+main	emoji.c	/^int main(int argc, char *argv[])$/;"	f
+main	flags.cpp	/^int main()$/;"	f
+main	hello.c	/^int main() {$/;"	f
+main	hex_to_int.c	/^int main() {$/;"	f
+main	histogram.c	/^int main() {$/;"	f
+main	io.c	/^int main(){$/;"	f
+main	longest_substring.cpp	/^int main()$/;"	f
+main	main.c	/^int main()$/;"	f
+main	main.cpp	/^int main()$/;"	f
+main	pattern_finder.c	/^int main(){$/;"	f
+main	printing_tokens.c	/^int main()$/;"	f
+main	random_generator.c	/^int main() {$/;"	f
+main	reverse_string.c	/^int main() {$/;"	f
+main	swap.c	/^int main()$/;"	f
+main	temp.c	/^int main() {$/;"	f
+main	test.c	/^int main()$/;"	f
+main	tmp.c	/^int main() {$/;"	f
+main	word-counter.c	/^int main() {$/;"	f
+malloc	Solutions/chapter_8/exercise_8-6.c	/^void *malloc (unsigned nbytes)$/;"	f
+malloc	Solutions/chapter_8/exercise_8-7.c	/^void *malloc (unsigned nbytes)$/;"	f
+malloc	Solutions/chapter_8/exercise_8-8.c	/^void *malloc (unsigned nbytes)$/;"	f
+matrix	RemoveIsland.cpp	/^typedef std::vector<std::vector<int> > matrix;$/;"	t	file:
+minprintf	Solutions/chapter_7/exercise_7-3.c	/^void minprintf (char *fmt, ...)$/;"	f
+minscanf	Solutions/chapter_7/exercise_7-4.c	/^int minscanf (char *fmt, ...)$/;"	f
+month_day	Solutions/chapter_5/exercise_5-8.c	/^int month_day (int year, int yearday, int *pmonth, int *pday)$/;"	f
+month_day	Solutions/chapter_5/exercise_5-9.c	/^int month_day (int year, int yearday, int *pmonth, int *pday)$/;"	f
+morecore	Solutions/chapter_8/exercise_8-6.c	/^static Header *morecore (unsigned nu)$/;"	f	file:
+morecore	Solutions/chapter_8/exercise_8-7.c	/^static Header *morecore (unsigned nu)$/;"	f	file:
+morecore	Solutions/chapter_8/exercise_8-8.c	/^static Header *morecore (unsigned nu)$/;"	f	file:
+name	Functor.cpp	/^    const char *name;$/;"	m	struct:Entity	file:
+name	Solutions/chapter_5/exercise_5-18.c	/^char	name[MAXTOKEN];$/;"	v
+name	Solutions/chapter_6/exercise_6-5.c	/^	char		*name;$/;"	m	struct:nlist	file:
+name	Solutions/chapter_6/exercise_6-6.c	/^	char		*name;$/;"	m	struct:nlist	file:
+name	acutest.hpp	/^    const char* name;$/;"	m	struct:acutest_test_
+next	AddTwoNumbers.h	/^    ListNode *next;$/;"	m	struct:ListNode
+next	BookShelves.c	/^    struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	LinkedList.h	/^        Node* next;$/;"	m	struct:LinkedList::Node
+next	MergeSortedLists.h	/^    ListNode *next;$/;"	m	struct:ListNode
+next	Solutions/chapter_6/exercise_6-3.c	/^	struct rnode	*next;$/;"	m	struct:rnode	typeref:struct:rnode::rnode	file:
+next	Solutions/chapter_6/exercise_6-5.c	/^	struct nlist	*next;$/;"	m	struct:nlist	typeref:struct:nlist::nlist	file:
+next	Solutions/chapter_6/exercise_6-6.c	/^	struct nlist	*next;$/;"	m	struct:nlist	typeref:struct:nlist::nlist	file:
+next	random_generator.c	/^unsigned long int next = 1;$/;"	v
+nlist	Solutions/chapter_6/exercise_6-5.c	/^struct nlist {$/;"	s	file:
+nlist	Solutions/chapter_6/exercise_6-6.c	/^struct nlist {$/;"	s	file:
+node	BookShelves.c	/^struct node{$/;"	s	file:
+noreturn	acutest.hpp	/^void acutest_abort_(void) ACUTEST_ATTRIBUTE_(noreturn);$/;"	v
+null	arrays.c	/^#define null /;"	d	file:
+num_query	BookShelves.c	/^int num_query;$/;"	v
+num_shelves	BookShelves.c	/^int num_shelves;$/;"	v
+number_arguments	Solutions/chapter_5/exercise_5-10.c	/^int     number_arguments;$/;"	v
+number_fields	Solutions/chapter_5/exercise_5-17.c	/^int	number_fields, current_field;$/;"	v
+numcmp	Solutions/chapter_5/exercise_5-14.c	/^int numcmp (char *s1, char *s2)$/;"	f
+numcmp	Solutions/chapter_5/exercise_5-15.c	/^int numcmp (char *s1, char *s2)$/;"	f
+numcmp	Solutions/chapter_5/exercise_5-16.c	/^int numcmp (char *s1, char *s2)$/;"	f
+numcmp	Solutions/chapter_5/exercise_5-17.c	/^int numcmp (char *s1, char *s2)$/;"	f
+numeric	Solutions/chapter_5/exercise_5-14.c	/^int	numeric = 0;$/;"	v
+numeric	Solutions/chapter_5/exercise_5-15.c	/^int	numeric = 0;$/;"	v
+numeric	Solutions/chapter_5/exercise_5-16.c	/^int	numeric = 0;$/;"	v
+numeric	Solutions/chapter_5/exercise_5-17.c	/^int	numeric[MAXFIELDS];$/;"	v
+operator !=	Graph.h	/^    bool operator!=(const Edge<K> &other) const$/;"	f	class:Edge
+operator ()	Functor.cpp	/^    int operator()(const Entity &e, const Entity &o)$/;"	f	struct:Compare
+operator <	Graph.h	/^    bool operator<(const Edge<K> &other) const$/;"	f	class:Edge
+operator =	Graph.h	/^    bool operator=(const Edge<K> &other) const$/;"	f	class:Edge
+operator =	Graph.h	/^Graph<K, V> &Graph<K, V>::operator=(const Graph &g)$/;"	f	class:Graph
+otoi	hex_to_int.c	/^int otoi(char oct[]) {$/;"	f
+out	Solutions/chapter_5/exercise_5-18.c	/^char	out[MAXOUTPUT];$/;"	v
+out	Solutions/chapter_5/exercise_5-19.c	/^char	out[MAXOUTPUT];$/;"	v
+page	Solutions/chapter_7/exercise_7-8.c	/^int	page, line;$/;"	v
+param	Solutions/chapter_5/exercise_5-20.c	/^int param (char *out)$/;"	f
+parent	Graph.h	/^    Vertex<K, V> *parent;$/;"	m	class:Vertex
+path	Graph.h	/^std::vector<K> Graph<K, V>::path(const K &src, const K &dest)$/;"	f	class:Graph
+path_length	Graph.h	/^float Graph<K, V>::path_length(std::vector<K> &path)$/;"	f	class:Graph
+pattern	Solutions/chapter_4/exercise_4-1.c	/^char 	pattern[] = "ould";	\/* Pattern "ould". *\/$/;"	v
+pattern	pattern_finder.c	/^char pattern[] = "ould"; \/* Search for this *\/$/;"	v
+pop	Solutions/chapter_4/exercise_4-10.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-11.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-3.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-4.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-5.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-6.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-7.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-8.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_4/exercise_4-9.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_5/exercise_5-10.c	/^double pop (void)$/;"	f
+pop	Solutions/chapter_7/exercise_7-5.c	/^double pop (void)$/;"	f
+pop	calculator.c	/^double pop(void) {$/;"	f
+prefix_length	Solutions/chapter_6/exercise_6-2.c	/^int		prefix_length;$/;"	v
+previous	Solutions/chapter_6/exercise_6-3.c	/^	struct rnode 	*previous;$/;"	m	struct:rnode	typeref:struct:rnode::rnode	file:
+print	Graph.h	/^void Graph<K, V>::print() const$/;"	f	class:Graph
+print	HashMap.h	/^    void print()$/;"	f	class:MyHashMap
+printList	MergeSortedLists.h	/^void printList(ListNode *node)$/;"	f
+printMatrix	RemoveIsland.cpp	/^void printMatrix(const matrix &image)$/;"	f
+printPI	OutputFormat.cpp	/^void printPI() {$/;"	f
+printQueue	RemoveIsland.cpp	/^void printQueue(std::queue<Pixel> q)$/;"	f
+print_buffer	Solutions/chapter_1/exercise_1-22.c	/^void print_buffer (char buffer[], int length)$/;"	f
+print_error	Solutions/chapter_1/exercise_1-24.c	/^void print_error (char s[])$/;"	f
+printfile	Solutions/chapter_7/exercise_7-8.c	/^void printfile (FILE *fp)$/;"	f
+printfooter	Solutions/chapter_7/exercise_7-8.c	/^void printfooter (void)$/;"	f
+printheader	Solutions/chapter_7/exercise_7-8.c	/^void printheader (void)$/;"	f
+ptr	Solutions/chapter_8/exercise_8-2.c	/^	char	*ptr;$/;"	m	struct:_iobuf	file:
+ptr	Solutions/chapter_8/exercise_8-3.c	/^	char	*ptr;$/;"	m	struct:_iobuf	file:
+ptr	Solutions/chapter_8/exercise_8-4.c	/^	char	*ptr;$/;"	m	struct:_iobuf	file:
+ptr	Solutions/chapter_8/exercise_8-6.c	/^		union header	*ptr;$/;"	m	struct:header::__anon2	typeref:union:header::__anon2::header	file:
+ptr	Solutions/chapter_8/exercise_8-7.c	/^		union header	*ptr;$/;"	m	struct:header::__anon1	typeref:union:header::__anon1::header	file:
+ptr	Solutions/chapter_8/exercise_8-8.c	/^		union header	*ptr;$/;"	m	struct:header::__anon4	typeref:union:header::__anon4::header	file:
+push	Solutions/chapter_4/exercise_4-10.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-11.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-3.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-4.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-5.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-6.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-7.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-8.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_4/exercise_4-9.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_5/exercise_5-10.c	/^void push (double f)$/;"	f
+push	Solutions/chapter_7/exercise_7-5.c	/^void push (double f)$/;"	f
+push	calculator.c	/^void push(double f) {$/;"	f
+pushback	Solutions/chapter_4/exercise_4-8.c	/^int	pushback = -1;$/;"	v
+put	HashMap.h	/^    void put(int key, int value)$/;"	f	class:MyHashMap
+putc	Solutions/chapter_8/exercise_8-2.c	/^#define putc(/;"	d	file:
+putc	Solutions/chapter_8/exercise_8-3.c	/^#define putc(/;"	d	file:
+putc	Solutions/chapter_8/exercise_8-4.c	/^#define putc(/;"	d	file:
+putchar	Solutions/chapter_8/exercise_8-2.c	/^#define putchar(/;"	d	file:
+putchar	Solutions/chapter_8/exercise_8-3.c	/^#define putchar(/;"	d	file:
+putchar	Solutions/chapter_8/exercise_8-4.c	/^#define putchar(/;"	d	file:
+qsort	Solutions/chapter_5/exercise_5-14.c	/^void qsort (void *v[], int left, int right, int (*comp) (void *, void *))$/;"	f
+qsort	Solutions/chapter_5/exercise_5-15.c	/^void qsort (void *v[], int left, int right, int (*comp) (void *, void *))$/;"	f
+qsort	Solutions/chapter_5/exercise_5-16.c	/^void qsort (void *v[], int left, int right, int (*comp) (void *, void *))$/;"	f
+qsort	Solutions/chapter_5/exercise_5-17.c	/^void qsort (void *v[], int left, int right, int (*comp) (void *, void *))$/;"	f
+qsort	Solutions/chapter_5/exercise_5-7.c	/^void qsort (char *v[], int left, int right)$/;"	f
+ralloc	Solutions/chapter_6/exercise_6-3.c	/^struct rnode *ralloc (void)$/;"	f
+rand	random_generator.c	/^int rand(void) {$/;"	f
+rank	Graph.h	/^    float rank;$/;"	m	class:Vertex
+read	Solutions/chapter_8/exercise_8-2.c	/^		unsigned	read	: 1;$/;"	m	struct:_iobuf::__anon3	file:
+read_directive	Solutions/chapter_6/exercise_6-6.c	/^int read_directive (char *token)$/;"	f
+readlines	Solutions/chapter_5/exercise_5-13.c	/^int readlines (char *lineptr[], int maxlines)$/;"	f
+readlines	Solutions/chapter_5/exercise_5-14.c	/^int readlines (char *lineptr[], int maxlines)$/;"	f
+readlines	Solutions/chapter_5/exercise_5-15.c	/^int readlines (char *lineptr[], int maxlines)$/;"	f
+readlines	Solutions/chapter_5/exercise_5-16.c	/^int readlines (char *lineptr[], int maxlines)$/;"	f
+readlines	Solutions/chapter_5/exercise_5-17.c	/^int readlines (void)$/;"	f
+readlines	Solutions/chapter_5/exercise_5-7.c	/^int readlines (char *lineptr[], int maxlines, char linebuf[])$/;"	f
+refs	Solutions/chapter_6/exercise_6-3.c	/^	struct rnode	*refs;	\/* NULL if is_noise is not zero. *\/$/;"	m	struct:tnode	typeref:struct:tnode::rnode	file:
+remove	HashMap.h	/^    void remove(int key)$/;"	f	class:MyHashMap
+remove	HashSet.h	/^    void remove(Node* current, int key)$/;"	f	class:MyHashSet
+remove	HashSet.h	/^    void remove(int key)$/;"	f	class:MyHashSet
+remove	LinkedList.h	/^    bool remove(int key)$/;"	f	class:LinkedList
+removeIslands	RemoveIsland.cpp	/^void removeIslands(matrix &image)$/;"	f
+resize	HashMap.h	/^    void resize(int newCapacity)$/;"	f	class:MyHashMap
+reverse	Solutions/chapter_1/exercise_1-19.c	/^void reverse (char s[])$/;"	f
+reverse	Solutions/chapter_3/exercise_3-4.c	/^void reverse (char s[])$/;"	f
+reverse	Solutions/chapter_3/exercise_3-5.c	/^void reverse (char s[])$/;"	f
+reverse	Solutions/chapter_3/exercise_3-6.c	/^void reverse (char s[])$/;"	f
+reverse	Solutions/chapter_4/exercise_4-13.c	/^void reverse (char s[])$/;"	f
+reverse	Solutions/chapter_5/exercise_5-14.c	/^int	reverse = 1;$/;"	v
+reverse	Solutions/chapter_5/exercise_5-15.c	/^int	reverse = 1;$/;"	v
+reverse	Solutions/chapter_5/exercise_5-16.c	/^int	reverse = 1;$/;"	v
+reverse	Solutions/chapter_5/exercise_5-17.c	/^int	reverse[MAXFIELDS];$/;"	v
+reverse	Solutions/chapter_5/exercise_5-6.c	/^void reverse (char *s)$/;"	f
+reverse	main.c	/^void reverse(char *s)$/;"	f
+reverse	reverse_string.c	/^void reverse(char s[], int len) {$/;"	f
+right	HashSet.h	/^        Node* right;$/;"	m	struct:MyHashSet::Node
+right	Solutions/chapter_6/exercise_6-2.c	/^	struct tnode	*right;$/;"	m	struct:tnode	typeref:struct:tnode::tnode	file:
+right	Solutions/chapter_6/exercise_6-3.c	/^	struct tnode	*right;$/;"	m	struct:tnode	typeref:struct:tnode::tnode	file:
+right	Solutions/chapter_6/exercise_6-4.c	/^	struct tnode	*right;$/;"	m	struct:tnode	typeref:struct:tnode::tnode	file:
+rightrot	Solutions/chapter_2/exercise_2-8.c	/^unsigned rightrot (unsigned x, int n)$/;"	f
+rnode	Solutions/chapter_6/exercise_6-3.c	/^struct rnode {$/;"	s	file:
+root	HashSet.h	/^    Node *root;$/;"	m	class:MyHashSet
+row	RemoveIsland.cpp	/^    int row;$/;"	m	struct:Pixel	file:
+s	Solutions/chapter_8/exercise_8-6.c	/^	} s;$/;"	m	union:header	typeref:struct:header::__anon2	file:
+s	Solutions/chapter_8/exercise_8-7.c	/^	} s;$/;"	m	union:header	typeref:struct:header::__anon1	file:
+s	Solutions/chapter_8/exercise_8-8.c	/^	} s;$/;"	m	union:header	typeref:struct:header::__anon4	file:
+setbits	Solutions/chapter_2/exercise_2-6.c	/^unsigned setbits (unsigned x, int p, int n, unsigned y)$/;"	f
+shortname	acutest.hpp	/^    char shortname;$/;"	m	struct:acutest_test_CMDLINE_OPTION_
+size	BookShelves.c	/^    int size;$/;"	m	struct:list	file:
+size	LinkedList.h	/^    unsigned size() const$/;"	f	class:LinkedList
+size	Solutions/chapter_8/exercise_8-6.c	/^		unsigned	size;$/;"	m	struct:header::__anon2	file:
+size	Solutions/chapter_8/exercise_8-7.c	/^		unsigned	size;$/;"	m	struct:header::__anon1	file:
+size	Solutions/chapter_8/exercise_8-8.c	/^		unsigned	size;$/;"	m	struct:header::__anon4	file:
+size_	LinkedList.h	/^    unsigned size_;$/;"	m	class:LinkedList
+sort_by_length	sort_array_of_strings.c	/^int sort_by_length(const char *a, const char *b)$/;"	f
+sort_by_number_of_distinct_characters	sort_array_of_strings.c	/^int sort_by_number_of_distinct_characters(const char *a, const char *b)$/;"	f
+source	Graph.h	/^    K source;$/;"	m	class:Edge
+sp	Solutions/chapter_4/exercise_4-10.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-11.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-3.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-4.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-5.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-6.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-7.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-8.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_4/exercise_4-9.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_5/exercise_5-10.c	/^int	sp = 0;$/;"	v
+sp	Solutions/chapter_7/exercise_7-5.c	/^int	sp = 0;$/;"	v
+sp	calculator.c	/^int sp = 0; \/* next free stack position *\/$/;"	v
+squeeze	Solutions/chapter_2/exercise_2-4.c	/^void squeeze (char s1[], char s2[])$/;"	f
+stderr	Solutions/chapter_8/exercise_8-2.c	/^#define stderr	/;"	d	file:
+stderr	Solutions/chapter_8/exercise_8-3.c	/^#define stderr	/;"	d	file:
+stderr	Solutions/chapter_8/exercise_8-4.c	/^#define stderr	/;"	d	file:
+stdin	Solutions/chapter_8/exercise_8-2.c	/^#define stdin	/;"	d	file:
+stdin	Solutions/chapter_8/exercise_8-3.c	/^#define stdin	/;"	d	file:
+stdin	Solutions/chapter_8/exercise_8-4.c	/^#define stdin	/;"	d	file:
+stdout	Solutions/chapter_8/exercise_8-2.c	/^#define stdout	/;"	d	file:
+stdout	Solutions/chapter_8/exercise_8-3.c	/^#define stdout	/;"	d	file:
+stdout	Solutions/chapter_8/exercise_8-4.c	/^#define stdout	/;"	d	file:
+strToNum	conversion.cpp	/^int strToNum(const char c[])$/;"	f
+strToNum	conversion.cpp	/^int strToNum(const char c[], int res, int i)$/;"	f
+str_index	pattern_finder.c	/^int str_index(char s[], char t[]) {$/;"	f
+strcat	Solutions/chapter_5/exercise_5-3.c	/^void strcat (char *s, char *t)$/;"	f
+strcat1	dynamic_memory.c	/^int strcat1(char *s, char *t) {$/;"	f
+strcat2	dynamic_memory.c	/^int strcat2(char *s, char *t) {$/;"	f
+strcmp	Solutions/chapter_5/exercise_5-14.c	/^int strcmp (char *s, char *t)$/;"	f
+strcmp	Solutions/chapter_5/exercise_5-15.c	/^int strcmp (char *s, char *t)$/;"	f
+strcmp	Solutions/chapter_5/exercise_5-16.c	/^int strcmp (char *s, char *t)$/;"	f
+strcmp	Solutions/chapter_5/exercise_5-17.c	/^int strcmp (char *s, char *t)$/;"	f
+strcmp1	dynamic_memory.c	/^int strcmp1(char *s, char *t) {$/;"	f
+strcmp2	dynamic_memory.c	/^int strcmp2(char *s, char *t) {$/;"	f
+strcpy	Solutions/chapter_5/exercise_5-14.c	/^void strcpy (char *s, char *t)$/;"	f
+strcpy	Solutions/chapter_5/exercise_5-15.c	/^void strcpy (char *s, char *t)$/;"	f
+strcpy	Solutions/chapter_5/exercise_5-16.c	/^void strcpy (char *s, char *t)$/;"	f
+strcpy	Solutions/chapter_5/exercise_5-17.c	/^void strcpy (char *s, char *t)$/;"	f
+strcpy1	dynamic_memory.c	/^void strcpy1(char *s, char *t) {$/;"	f
+strcpy2	dynamic_memory.c	/^void strcpy2(char *s, char *t) {$/;"	f
+strcpy3	dynamic_memory.c	/^void strcpy3(char *s, char *t) {$/;"	f
+strdup	Solutions/chapter_6/exercise_6-2.c	/^char *strdup (char *s)$/;"	f
+strdup	Solutions/chapter_6/exercise_6-3.c	/^char *strdup (char *s)$/;"	f
+strdup	Solutions/chapter_6/exercise_6-4.c	/^char *strdup (char *s)$/;"	f
+strdup	Solutions/chapter_6/exercise_6-5.c	/^char *strdup (char *s)$/;"	f
+strdup	Solutions/chapter_6/exercise_6-6.c	/^char *strdup (char *s)$/;"	f
+strend	Solutions/chapter_5/exercise_5-4.c	/^int strend (char *s, char *t)$/;"	f
+string_sort	sort_array_of_strings.c	/^void string_sort(char **arr, const int len, int (*cmp_func)(const char *a, const char *b))$/;"	f
+strlen1	dynamic_memory.c	/^int strlen1(char *s) {$/;"	f
+strncat	Solutions/chapter_5/exercise_5-5.c	/^void strncat (char *s, char *t, int n)$/;"	f
+strncmp	Solutions/chapter_5/exercise_5-5.c	/^int strncmp (char *s, char *t, int n)$/;"	f
+strncpy	Solutions/chapter_5/exercise_5-5.c	/^void strncpy (char *s, char *t, int n)$/;"	f
+strrindex	Solutions/chapter_4/exercise_4-1.c	/^int strrindex (char s[], char t[])$/;"	f
+substrCount	longest_substring.cpp	/^long substrCount(int n, string s)$/;"	f
+swap	Solutions/chapter_5/exercise_5-14.c	/^void swap (void *v[], int i, int j)$/;"	f
+swap	Solutions/chapter_5/exercise_5-15.c	/^void swap (void *v[], int i, int j)$/;"	f
+swap	Solutions/chapter_5/exercise_5-16.c	/^void swap (void *v[], int i, int j)$/;"	f
+swap	Solutions/chapter_5/exercise_5-17.c	/^void swap (void *v[], int i, int j)$/;"	f
+swap	Solutions/chapter_5/exercise_5-7.c	/^void swap (char *v[], int i, int j)$/;"	f
+swap	sort_array_of_strings.c	/^void swap(char **s1, char **s2)$/;"	f
+table	HashMap.h	/^    vector<list<pair<int, int>>> table;$/;"	m	class:MyHashMap
+tail	AddTwoNumbers.h	/^    ListNode *tail;$/;"	m	struct:List
+talloc	Solutions/chapter_6/exercise_6-2.c	/^struct tnode *talloc (void)$/;"	f
+talloc	Solutions/chapter_6/exercise_6-3.c	/^struct tnode *talloc (void)$/;"	f
+talloc	Solutions/chapter_6/exercise_6-4.c	/^struct tnode *talloc (void)$/;"	f
+tnode	Solutions/chapter_6/exercise_6-2.c	/^struct tnode {$/;"	s	file:
+tnode	Solutions/chapter_6/exercise_6-3.c	/^struct tnode {$/;"	s	file:
+tnode	Solutions/chapter_6/exercise_6-4.c	/^struct tnode {$/;"	s	file:
+to_string	Graph.h	/^    extern std::string to_string(const std::vector<T> &v)$/;"	f	namespace:util
+token	Solutions/chapter_5/exercise_5-18.c	/^char	token[MAXTOKEN];$/;"	v
+token	Solutions/chapter_5/exercise_5-19.c	/^char	token[MAXTOKEN];$/;"	v
+token	Solutions/chapter_5/exercise_5-20.c	/^char	token[MAXTOKEN];$/;"	v
+tokentype	Solutions/chapter_5/exercise_5-18.c	/^int	tokentype;$/;"	v
+tokentype	Solutions/chapter_5/exercise_5-19.c	/^int	tokentype;$/;"	v
+tokentype	Solutions/chapter_5/exercise_5-20.c	/^int	tokentype;$/;"	v
+transpose	Graph.h	/^Graph<K, V> *Graph<K, V>::transpose() const$/;"	f	class:Graph
+treeprint	Solutions/chapter_6/exercise_6-2.c	/^void treeprint (struct tnode *p)$/;"	f
+treeprint	Solutions/chapter_6/exercise_6-3.c	/^void treeprint (struct tnode *p)$/;"	f
+unbuf	Solutions/chapter_8/exercise_8-2.c	/^		unsigned	unbuf 	: 1;$/;"	m	struct:_iobuf::__anon3	file:
+undef	Solutions/chapter_6/exercise_6-5.c	/^void undef (char *name)$/;"	f
+unescape	Solutions/chapter_3/exercise_3-2.c	/^void unescape (char s[], char t[])$/;"	f
+unget_ch	calculator.c	/^void unget_ch(int c) {$/;"	f
+ungetch	Solutions/chapter_4/exercise_4-3.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_4/exercise_4-4.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_4/exercise_4-5.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_4/exercise_4-6.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_4/exercise_4-7.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_4/exercise_4-8.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_4/exercise_4-9.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_5/exercise_5-1.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_5/exercise_5-18.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_5/exercise_5-19.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_5/exercise_5-2.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_5/exercise_5-20.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_6/exercise_6-1.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_6/exercise_6-2.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_6/exercise_6-3.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_6/exercise_6-4.c	/^void ungetch (int c)$/;"	f
+ungetch	Solutions/chapter_6/exercise_6-6.c	/^void ungetch (int c)$/;"	f
+ungets	Solutions/chapter_4/exercise_4-7.c	/^void ungets (char s[])$/;"	f
+util	Graph.h	/^namespace util$/;"	n
+val	AddTwoNumbers.h	/^    int val;$/;"	m	struct:ListNode
+val	BookShelves.c	/^    int val;$/;"	m	struct:node	file:
+val	MergeSortedLists.h	/^    int val;$/;"	m	struct:ListNode
+val	Solutions/chapter_4/exercise_4-10.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-11.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-3.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-4.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-5.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-6.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-7.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-8.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_4/exercise_4-9.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_5/exercise_5-10.c	/^double	val[MAXVAL];$/;"	v
+val	Solutions/chapter_7/exercise_7-5.c	/^double	val[MAXVAL];$/;"	v
+val	calculator.c	/^double val[MAXVAL]; \/* value stack *\/$/;"	v
+validPixel	RemoveIsland.cpp	/^bool validPixel(Pixel p, const matrix &image)$/;"	f
+value	Graph.h	/^    V value;$/;"	m	class:Vertex
+value	LinkedList.h	/^        int value;$/;"	m	struct:LinkedList::Node
+variables	Solutions/chapter_4/exercise_4-10.c	/^double 	variables[26];$/;"	v
+variables	Solutions/chapter_4/exercise_4-11.c	/^double 	variables[26];$/;"	v
+variables	Solutions/chapter_4/exercise_4-6.c	/^double 	variables[26];$/;"	v
+variables	Solutions/chapter_4/exercise_4-7.c	/^double 	variables[26];$/;"	v
+variables	Solutions/chapter_4/exercise_4-8.c	/^double 	variables[26];$/;"	v
+variables	Solutions/chapter_4/exercise_4-9.c	/^double 	variables[26];$/;"	v
+variables	Solutions/chapter_5/exercise_5-10.c	/^double 	variables[26];$/;"	v
+vertices	Graph.h	/^    std::unordered_map<K, Vertex<K, V> *> vertices;$/;"	m	class:Graph
+visit	RemoveIsland.cpp	/^void visit(Pixel p, matrix &image)$/;"	f
+visited	Graph.h	/^    bool visited;$/;"	m	class:Vertex
+wcount	Solutions/chapter_6/exercise_6-4.c	/^int		wcount = 0;$/;"	v
+word	Solutions/chapter_6/exercise_6-1.c	/^	char	*word;$/;"	m	struct:key	file:
+word	Solutions/chapter_6/exercise_6-2.c	/^	char		*word;$/;"	m	struct:tnode	file:
+word	Solutions/chapter_6/exercise_6-3.c	/^	char		*word;$/;"	m	struct:tnode	file:
+word	Solutions/chapter_6/exercise_6-4.c	/^	char		*word;$/;"	m	struct:tnode	file:
+wordtab	Solutions/chapter_6/exercise_6-4.c	/^struct tnode	**wordtab;$/;"	v	typeref:struct:tnode
+write	Solutions/chapter_8/exercise_8-2.c	/^		unsigned	write 	: 1;$/;"	m	struct:_iobuf::__anon3	file:
+writelines	Solutions/chapter_5/exercise_5-13.c	/^void writelines (char *lineptr[], int nlines)$/;"	f
+writelines	Solutions/chapter_5/exercise_5-14.c	/^void writelines (char *lineptr[], int nlines)$/;"	f
+writelines	Solutions/chapter_5/exercise_5-15.c	/^void writelines (char *lineptr[], int nlines)$/;"	f
+writelines	Solutions/chapter_5/exercise_5-16.c	/^void writelines (char *lineptr[], int nlines)$/;"	f
+writelines	Solutions/chapter_5/exercise_5-17.c	/^void writelines (int nlines)$/;"	f
+writelines	Solutions/chapter_5/exercise_5-7.c	/^void writelines (char *lineptr[], int nlines)$/;"	f
+x	Solutions/chapter_8/exercise_8-6.c	/^	Align	x;$/;"	m	union:header	file:
+x	Solutions/chapter_8/exercise_8-7.c	/^	Align	x;$/;"	m	union:header	file:
+x	Solutions/chapter_8/exercise_8-8.c	/^	Align	x;$/;"	m	union:header	file:
+~Edge	Graph.h	/^    ~Edge()$/;"	f	class:Edge
+~Graph	Graph.h	/^Graph<K, V>::~Graph()$/;"	f	class:Graph
+~LinkedList	LinkedList.h	/^    ~LinkedList()$/;"	f	class:LinkedList
+~List	AddTwoNumbers.h	/^    ~List()$/;"	f	struct:List
+~MyHashSet	HashSet.h	/^    ~MyHashSet()$/;"	f	class:MyHashSet
+~Vertex	Graph.h	/^Vertex<K, V>::~Vertex()$/;"	f	class:Vertex
